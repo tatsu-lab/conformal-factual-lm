@@ -1,0 +1,2417 @@
+{
+    "data": [
+        {
+            "prompt": "when is the last episode of season 8 of the walking dead\n",
+            "original-output": "The last episode of season 8 of The Walking Dead aired on April 15, 2018.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Walking Dead has at least 8 seasons.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The last episode of season 8 of The Walking Dead aired.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The last episode of season 8 of The Walking Dead aired on April 15, 2018.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The Walking Dead has at least 8 seasons.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The last episode of season 8 of The Walking Dead aired.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The last episode of season 8 of The Walking Dead aired on April 15, 2018.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Walking Dead, which has at least 8 seasons, aired its last episode of season 8 on April 15, 2018."
+        },
+        {
+            "prompt": "in greek mythology who was the goddess of spring growth\n",
+            "original-output": "The goddess of spring growth in Greek mythology was Persephone. She was also the queen of the underworld as she was abducted by Hades, the god of the underworld. Her return to the surface each year was believed to symbolize the rebirth of plants and the arrival of spring.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The goddess of spring growth in Greek mythology was Persephone.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Persephone was also the queen of the underworld.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Persephone was abducted by Hades, the god of the underworld.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her return to the surface each year was believed to symbolize the rebirth of plants.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her return to the surface each year was believed to symbolize the arrival of spring.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The goddess of spring growth in Greek mythology was Persephone.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Persephone was also the queen of the underworld.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "In Greek mythology, the goddess of spring growth was Persephone. Interestingly, Persephone also held the title of the queen of the underworld."
+        },
+        {
+            "prompt": "benefits of colonial life for single celled organisms\n",
+            "original-output": "1. Protection: Living in colonies can provide single-celled organisms with protection from predators and harsh environmental conditions. The outer cells of the colony can act as a barrier, shielding the inner cells.\n\n2. Nutrient Availability: In a colony, nutrients can be shared among the cells. This can be especially beneficial in environments where nutrients are scarce.\n\n3. Increased Survival Rate: The chances of survival can be higher in a colony because if one cell dies, others can continue to live and reproduce. This is particularly important in harsh environments where the death rate can be high.\n\n4. Specialization: In some colonies, cells can specialize in different tasks, such as reproduction, nutrient absorption, or defense. This can increase the efficiency of the colony as a whole.\n\n5. Genetic Diversity: Colonies can contain a high level of genetic diversity, which can increase the adaptability of the colony to changing environmental conditions.\n\n6. Quorum Sensing: Some single-celled organisms in colonies can communicate with each other through a process called quorum sensing. This allows them to coordinate their behavior and respond to changes in their environment in a collective way.\n\n7. Biofilm Formation: Many single-celled organisms form biofilms, which are essentially colonies attached to a surface. Biofilms can provide protection from antibiotics and other threats, and can also help the cells to capture and share nutrients.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Living in colonies can provide single-celled organisms with protection from predators and harsh environmental conditions.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The outer cells of the colony can act as a barrier, shielding the inner cells.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In a colony, nutrients can be shared among the cells.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharing nutrients can be especially beneficial in environments where nutrients are scarce.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The chances of survival can be higher in a colony because if one cell dies, others can continue to live and reproduce.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "High death rates in harsh environments make the survival of a colony particularly important.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In some colonies, cells can specialize in different tasks, such as reproduction, nutrient absorption, or defense.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Cell specialization can increase the efficiency of the colony as a whole.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Colonies can contain a high level of genetic diversity.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "High genetic diversity can increase the adaptability of the colony to changing environmental conditions.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Some single-celled organisms in colonies can communicate with each other through a process called quorum sensing.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Quorum sensing allows single-celled organisms to coordinate their behavior and respond to changes in their environment in a collective way.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Many single-celled organisms form biofilms, which are essentially colonies attached to a surface.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Biofilms can provide protection from antibiotics and other threats.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Biofilms can also help the cells to capture and share nutrients.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Living in colonies can provide single-celled organisms with protection from predators and harsh environmental conditions.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In a colony, nutrients can be shared among the cells.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The chances of survival can be higher in a colony because if one cell dies, others can continue to live and reproduce.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In some colonies, cells can specialize in different tasks, such as reproduction, nutrient absorption, or defense.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Cell specialization can increase the efficiency of the colony as a whole.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Colonies can contain a high level of genetic diversity.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "High genetic diversity can increase the adaptability of the colony to changing environmental conditions.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Living in colonies can provide single-celled organisms with numerous benefits. Firstly, it can offer protection from predators and harsh environmental conditions. Secondly, colonies allow for the sharing of nutrients among the cells, which can increase the chances of survival. If one cell dies, others can continue to live and reproduce. Furthermore, in some colonies, cells can specialize in different tasks such as reproduction, nutrient absorption, or defense. This cell specialization can increase the efficiency of the colony as a whole. Additionally, colonies can contain a high level of genetic diversity, which can increase the adaptability of the colony to changing environmental conditions."
+        },
+        {
+            "prompt": "how many season of the man in the high castle\n",
+            "original-output": "The Man in the High Castle has 4 seasons.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Man in the High Castle is a television series.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Man in the High Castle has 4 seasons.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The Man in the High Castle is a television series.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Man in the High Castle has 4 seasons.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Man in the High Castle is a television series that has 4 seasons."
+        },
+        {
+            "prompt": "who was the first ministry head of state in nigeria\n",
+            "original-output": "The first Prime Minister of Nigeria was Sir Abubakar Tafawa Balewa, serving from 1957 until 1966.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The first Prime Minister of Nigeria was Sir Abubakar Tafawa Balewa.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sir Abubakar Tafawa Balewa served as Prime Minister of Nigeria from 1957 until 1966.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The first Prime Minister of Nigeria was Sir Abubakar Tafawa Balewa.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The first ministry head of state in Nigeria was Sir Abubakar Tafawa Balewa, who served as the country's Prime Minister."
+        },
+        {
+            "prompt": "how many nominations does game of thrones have\n",
+            "original-output": "As of 2021, Game of Thrones has received 161 Emmy nominations.",
+            "all-subclaims": [
+                {
+                    "subclaim": "As of 2021, Game of Thrones has received Emmy nominations.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Game of Thrones has received 161 Emmy nominations.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "As of 2021, Game of Thrones has received Emmy nominations.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "As of 2021, Game of Thrones has received numerous Emmy nominations."
+        },
+        {
+            "prompt": "what is the name of the most important jewish text\n",
+            "original-output": "The Torah",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Torah is a religious text.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Torah is significant in Judaism.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "until we meet again filipino soap episode 10\n",
+            "original-output": "\"Until We Meet Again\" is a popular Filipino soap opera. However, I'm sorry, but I can't provide a summary for episode 10 as the details for specific episodes of this show are not readily available online. It's best to watch the series through a legitimate streaming service or on the network it originally aired on.",
+            "all-subclaims": [
+                {
+                    "subclaim": "\"Until We Meet Again\" is a popular Filipino soap opera.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The assistant cannot provide a summary for episode 10 of \"Until We Meet Again\".",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Details for specific episodes of \"Until We Meet Again\" are not readily available online.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "It's recommended to watch the series through a legitimate streaming service or on the network it originally aired on.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "what is the name of spain's most famous soccer team\n",
+            "original-output": "Real Madrid and FC Barcelona are the most famous soccer teams in Spain.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Real Madrid is a soccer team in Spain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "FC Barcelona is a soccer team in Spain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Real Madrid is one of the most famous soccer teams in Spain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "FC Barcelona is one of the most famous soccer teams in Spain.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Real Madrid is a soccer team in Spain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "FC Barcelona is a soccer team in Spain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Real Madrid is one of the most famous soccer teams in Spain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "FC Barcelona is one of the most famous soccer teams in Spain.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Real Madrid and FC Barcelona are both soccer teams in Spain and are considered to be two of the most famous soccer teams in the country."
+        },
+        {
+            "prompt": "when was the first robot used in surgery\n",
+            "original-output": "The first robot used in surgery was the PUMA 560, used in 1985 for a neurosurgical biopsy.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The first robot used in surgery was the PUMA 560.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The PUMA 560 was used in 1985.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The PUMA 560 was used for a neurosurgical biopsy.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The first robot used in surgery was the PUMA 560.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The PUMA 560 was used in 1985.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The PUMA 560 was used for a neurosurgical biopsy.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The first robot used in surgery was the PUMA 560. This robot was used for a neurosurgical biopsy in 1985."
+        },
+        {
+            "prompt": "who are the actors in fast and furious\n",
+            "original-output": "1. Vin Diesel as Dominic Toretto\n2. Paul Walker as Brian O'Conner\n3. Michelle Rodriguez as Letty Ortiz\n4. Jordana Brewster as Mia Toretto\n5. Tyrese Gibson as Roman Pearce\n6. Ludacris as Tej Parker\n7. Dwayne Johnson as Luke Hobbs\n8. Jason Statham as Deckard Shaw\n9. Sung Kang as Han Lue\n10. Gal Gadot as Gisele Yashar\n11. Elsa Pataky as Elena Neves\n12. Nathalie Emmanuel as Ramsey\n13. John Cena as Jakob Toretto\n14. Charlize Theron as Cipher\n15. Lucas Black as Sean Boswell\n16. Bow Wow as Twinkie (Fast and Furious: Tokyo Drift)\n17. Eva Mendes as Monica Fuentes (2 Fast 2 Furious and Fast Five)\n18. Kurt Russell as Mr. Nobody\n19. Helen Mirren as Magdalene Shaw\n20. Scott Eastwood as Little Nobody (The Fate of the Furious and F9) \n\nPlease note that this list includes main characters from the entire Fast & Furious franchise, not just the first movie.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Vin Diesel plays the character Dominic Toretto.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Paul Walker plays the character Brian O'Conner.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michelle Rodriguez plays the character Letty Ortiz.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jordana Brewster plays the character Mia Toretto.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tyrese Gibson plays the character Roman Pearce.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Ludacris plays the character Tej Parker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dwayne Johnson plays the character Luke Hobbs.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jason Statham plays the character Deckard Shaw.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sung Kang plays the character Han Lue.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gal Gadot plays the character Gisele Yashar.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Elsa Pataky plays the character Elena Neves.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Nathalie Emmanuel plays the character Ramsey.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "John Cena plays the character Jakob Toretto.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlize Theron plays the character Cipher.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lucas Black plays the character Sean Boswell.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bow Wow plays the character Twinkie in Fast and Furious: Tokyo Drift.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eva Mendes plays the character Monica Fuentes in 2 Fast 2 Furious and Fast Five.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kurt Russell plays the character Mr. Nobody.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Helen Mirren plays the character Magdalene Shaw.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Scott Eastwood plays the character Little Nobody in The Fate of the Furious and F9.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The list includes main characters from the entire Fast & Furious franchise, not just the first movie.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Vin Diesel plays the character Dominic Toretto.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Paul Walker plays the character Brian O'Conner.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michelle Rodriguez plays the character Letty Ortiz.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jordana Brewster plays the character Mia Toretto.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tyrese Gibson plays the character Roman Pearce.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Ludacris plays the character Tej Parker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dwayne Johnson plays the character Luke Hobbs.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jason Statham plays the character Deckard Shaw.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sung Kang plays the character Han Lue.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gal Gadot plays the character Gisele Yashar.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Elsa Pataky plays the character Elena Neves.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Nathalie Emmanuel plays the character Ramsey.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "John Cena plays the character Jakob Toretto.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlize Theron plays the character Cipher.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The list includes main characters from the entire Fast & Furious franchise, not just the first movie.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Fast & Furious franchise features a star-studded cast. Vin Diesel plays the character Dominic Toretto, while Paul Walker is known for his role as Brian O'Conner. Michelle Rodriguez portrays Letty Ortiz and Jordana Brewster plays Mia Toretto. Tyrese Gibson takes on the role of Roman Pearce, and Ludacris is cast as Tej Parker. Dwayne Johnson is recognized as Luke Hobbs, and Jason Statham plays Deckard Shaw. Sung Kang is cast as Han Lue, and Gal Gadot plays Gisele Yashar. Elsa Pataky portrays Elena Neves, and Nathalie Emmanuel is known for her role as Ramsey. John Cena plays Jakob Toretto, and Charlize Theron is cast as Cipher. This list includes main characters from the entire Fast & Furious franchise, not just the first movie."
+        },
+        {
+            "prompt": "when does tom paris become a lieutenant again\n",
+            "original-output": "Tom Paris is reinstated as a lieutenant in the Star Trek: Voyager episode \"Unimatrix Zero\" which is the first episode of the seventh season.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Tom Paris is a character in Star Trek: Voyager.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tom Paris is reinstated as a lieutenant in a Star Trek: Voyager episode.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The episode in which Tom Paris is reinstated as a lieutenant is called 'Unimatrix Zero'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'Unimatrix Zero' is the first episode of the seventh season of Star Trek: Voyager.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Tom Paris is a character in Star Trek: Voyager.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tom Paris is reinstated as a lieutenant in a Star Trek: Voyager episode.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'Unimatrix Zero' is the first episode of the seventh season of Star Trek: Voyager.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Tom Paris, a character in Star Trek: Voyager, is reinstated as a lieutenant in an episode of the series. This event takes place before the first episode of the seventh season, 'Unimatrix Zero'."
+        },
+        {
+            "prompt": "who sang the song i'm a nut\n",
+            "original-output": "Leroy Pullins sang the song \"I'm a Nut\".",
+            "all-subclaims": [
+                {
+                    "subclaim": "Leroy Pullins is a singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Leroy Pullins sang the song 'I'm a Nut'.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Leroy Pullins is a singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Leroy Pullins sang the song 'I'm a Nut'.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The song 'I'm a Nut' was sung by Leroy Pullins, who is a singer."
+        },
+        {
+            "prompt": "who sings the song i don't care i love it\n",
+            "original-output": "The song \"I Love It\" is sung by Icona Pop featuring Charli XCX.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The song 'I Love It' exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Icona Pop is a singer or group of singers.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charli XCX is a singer or artist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I Love It' is sung by Icona Pop.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I Love It' features Charli XCX.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The song 'I Love It' exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Icona Pop is a singer or group of singers.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charli XCX is a singer or artist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I Love It' is sung by Icona Pop.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I Love It' features Charli XCX.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The song 'I Love It' is sung by Icona Pop, a singer or group of singers. This song also features Charli XCX, another singer or artist."
+        },
+        {
+            "prompt": "what does the key to the city entitle you to\n",
+            "original-output": "Receiving the key to the city is largely a symbolic gesture these days. It is often given by a city to esteemed visitors, residents, or others the city wishes to honor. It does not typically grant any legal rights, privileges or powers. In the past, it symbolized the freedom of the recipient to enter and leave the city at will, as a trusted friend of city residents.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Receiving the key to the city is largely a symbolic gesture these days.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The key to the city is often given by a city to esteemed visitors, residents, or others the city wishes to honor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Receiving the key to the city does not typically grant any legal rights, privileges or powers.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the past, receiving the key to the city symbolized the freedom of the recipient to enter and leave the city at will.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The key to the city was a symbol of trust between the recipient and city residents.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Receiving the key to the city is largely a symbolic gesture these days.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The key to the city is often given by a city to esteemed visitors, residents, or others the city wishes to honor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Receiving the key to the city does not typically grant any legal rights, privileges or powers.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the past, receiving the key to the city symbolized the freedom of the recipient to enter and leave the city at will.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The key to the city was a symbol of trust between the recipient and city residents.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Receiving the key to the city is largely a symbolic gesture these days and does not typically grant any legal rights, privileges or powers. The key to the city is often given by a city to esteemed visitors, residents, or others the city wishes to honor. In the past, receiving the key to the city symbolized the freedom of the recipient to enter and leave the city at will, serving as a symbol of trust between the recipient and city residents."
+        },
+        {
+            "prompt": "when did fast and furious 5 come out\n",
+            "original-output": "Fast and Furious 5, also known as Fast Five, was released in the United States on April 29, 2011.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Fast and Furious 5 is also known as Fast Five.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fast and Furious 5 was released in the United States.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The release date of Fast and Furious 5 in the United States was April 29, 2011.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Fast and Furious 5 is also known as Fast Five.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fast and Furious 5 was released in the United States.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The release date of Fast and Furious 5 in the United States was April 29, 2011.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Fast and Furious 5, also known as Fast Five, was released in the United States on April 29, 2011."
+        },
+        {
+            "prompt": "who are uncle owen and aunt beru related to\n",
+            "original-output": "Uncle Owen and Aunt Beru are related to Luke Skywalker. They are his uncle and aunt, who raised him on the planet Tatooine in the Star Wars series. Uncle Owen is also the stepbrother of Anakin Skywalker, who later becomes Darth Vader.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru are related to Luke Skywalker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru are Luke Skywalker's uncle and aunt.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru raised Luke Skywalker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luke Skywalker was raised on the planet Tatooine.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen, Aunt Beru, and Luke Skywalker are characters in the Star Wars series.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen is the stepbrother of Anakin Skywalker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Anakin Skywalker later becomes Darth Vader in the Star Wars series.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru are related to Luke Skywalker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru are Luke Skywalker's uncle and aunt.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru raised Luke Skywalker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen, Aunt Beru, and Luke Skywalker are characters in the Star Wars series.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen is the stepbrother of Anakin Skywalker.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Anakin Skywalker later becomes Darth Vader in the Star Wars series.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Uncle Owen and Aunt Beru are related to Luke Skywalker, as they are his uncle and aunt. They are characters in the Star Wars series, along with Luke. Uncle Owen is also the stepbrother of Anakin Skywalker, who later becomes Darth Vader in the series. Uncle Owen and Aunt Beru raised Luke Skywalker."
+        },
+        {
+            "prompt": "when the clear air act was revised in 1990 it gave states\n",
+            "original-output": "more responsibility and authority to enforce air pollution controls. The amendments required states to develop state implementation plans (SIPs) that detailed how they would control air pollution in accordance with the standards set by the Environmental Protection Agency (EPA). The act also introduced new programs to control acid rain, toxic air pollution, and ozone depletion.",
+            "all-subclaims": [
+                {
+                    "subclaim": "More responsibility and authority to enforce air pollution controls was given.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The amendments required states to develop state implementation plans (SIPs).",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "State implementation plans (SIPs) detailed how states would control air pollution.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The standards for controlling air pollution were set by the Environmental Protection Agency (EPA).",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The act introduced new programs to control acid rain.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The act introduced new programs to control toxic air pollution.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The act introduced new programs to control ozone depletion.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "More responsibility and authority to enforce air pollution controls was given.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "When the Clear Air Act was revised in 1990, it gave states more responsibility and authority to enforce air pollution controls."
+        },
+        {
+            "prompt": "what is sauce for the goose is sauce for the gander examples\n",
+            "original-output": "1. If a husband is allowed to spend his free time with his friends, then the wife should also be allowed to spend her free time with her friends. What's sauce for the goose is sauce for the gander.\n\n2. If a company allows its employees to work from home on Fridays, it should also allow its managers to do the same. What's sauce for the goose is sauce for the gander.\n\n3. If a teacher allows one student to retake a test, then all students should be given the same opportunity. What's sauce for the goose is sauce for the gander.\n\n4. If a parent allows one child to stay up late on weekends, then the other children should also be allowed to do so. What's sauce for the goose is sauce for the gander.\n\n5. If a government provides financial aid to one sector of the economy, it should also be prepared to provide similar aid to other sectors. What's sauce for the goose is sauce for the gander. \n\n6. If a company allows its senior employees to take a sabbatical, it should also allow its junior employees to do the same. What's sauce for the goose is sauce for the gander.\n\n7. If a country allows its citizens to travel freely to other countries, it should also allow citizens of other countries to travel freely to it. What's sauce for the goose is sauce for the gander. \n\n8. If a boss is allowed to take a long lunch break, then the employees should be allowed to do the same. What's sauce for the goose is sauce for the gander. \n\n9. If a school allows its students to use calculators during math exams, it should also allow its teachers to use calculators when grading. What's sauce for the goose is sauce for the gander.\n\n10. If a company allows its employees to use company cars for personal use, it should also allow its managers to do the same. What's sauce for the goose is sauce for the gander.",
+            "all-subclaims": [
+                {
+                    "subclaim": "A husband is allowed to spend his free time with his friends.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The wife should also be allowed to spend her free time with her friends.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A company allows its employees to work from home on Fridays.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The company should also allow its managers to work from home on Fridays.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A teacher allows one student to retake a test.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "All students should be given the same opportunity to retake a test.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A parent allows one child to stay up late on weekends.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The other children should also be allowed to stay up late on weekends.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A government provides financial aid to one sector of the economy.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The government should be prepared to provide similar aid to other sectors.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A company allows its senior employees to take a sabbatical.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The company should also allow its junior employees to take a sabbatical.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A country allows its citizens to travel freely to other countries.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The country should also allow citizens of other countries to travel freely to it.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A boss is allowed to take a long lunch break.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The employees should be allowed to take a long lunch break.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A school allows its students to use calculators during math exams.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The school should also allow its teachers to use calculators when grading.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A company allows its employees to use company cars for personal use.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The company should also allow its managers to use company cars for personal use.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "where is zimbabwe located in the world map\n",
+            "original-output": "Zimbabwe is located in the southern part of the African continent. It is bordered by South Africa to the south, Botswana to the west and southwest, Zambia to the northwest, and Mozambique to the east and northeast.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Zimbabwe is located in the southern part of the African continent.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by South Africa to the south.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Botswana to the west and southwest.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Zambia to the northwest.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Mozambique to the east and northeast.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Zimbabwe is located in the southern part of the African continent.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by South Africa to the south.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Botswana to the west and southwest.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Zambia to the northwest.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Mozambique to the east and northeast.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Zimbabwe is located in the southern part of the African continent. It is bordered by South Africa to the south, Botswana to the west and southwest, Zambia to the northwest, and Mozambique to the east and northeast."
+        },
+        {
+            "prompt": "100 acres is equal to how many hectares\n",
+            "original-output": "40.4686 hectares",
+            "all-subclaims": [
+                {
+                    "subclaim": "The given measurement is 40.4686 hectares.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The given measurement is 40.4686 hectares.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "100 acres is equal to approximately 40.4686 hectares, as per the given measurement."
+        },
+        {
+            "prompt": "who has won a calendar grand slam in tennis\n",
+            "original-output": "1. Don Budge (1938)\n2. Maureen Connolly (1953)\n3. Rod Laver (1962 and 1969)\n4. Margaret Court (1970)\n5. Steffi Graf (1988)",
+            "all-subclaims": [
+                {
+                    "subclaim": "Don Budge was notable in 1938.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maureen Connolly was notable in 1953.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rod Laver was notable in 1962 and 1969.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Margaret Court was notable in 1970.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Steffi Graf was notable in 1988.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Don Budge was notable in 1938.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maureen Connolly was notable in 1953.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rod Laver was notable in 1962 and 1969.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Margaret Court was notable in 1970.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Steffi Graf was notable in 1988.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Don Budge, who was notable in 1938, Maureen Connolly, who was notable in 1953, Rod Laver, who was notable in 1962 and 1969, Margaret Court, who was notable in 1970, and Steffi Graf, who was notable in 1988, have all won a calendar grand slam in tennis."
+        },
+        {
+            "prompt": "where was donovan mitchell picked in the draft\n",
+            "original-output": "Donovan Mitchell was picked 13th overall in the 2017 NBA Draft.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Donovan Mitchell is a person.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donovan Mitchell was picked in the 2017 NBA Draft.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donovan Mitchell was picked 13th overall.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Donovan Mitchell is a person.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donovan Mitchell was picked in the 2017 NBA Draft.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donovan Mitchell was picked 13th overall.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Donovan Mitchell, who is a person, was picked 13th overall in the 2017 NBA Draft."
+        },
+        {
+            "prompt": "list of food and beverage companies in the philippines\n",
+            "original-output": "1. San Miguel Corporation\n2. Jollibee Foods Corporation\n3. Universal Robina Corporation\n4. Del Monte Philippines, Inc.\n5. Monde Nissin Corporation\n6. Century Pacific Food, Inc.\n7. Dole Philippines, Inc.\n8. Nestle Philippines, Inc.\n9. Coca-Cola Beverages Philippines, Inc.\n10. Pepsi-Cola Products Philippines, Inc.\n11. RFM Corporation\n12. Alaska Milk Corporation\n13. Bounty Agro Ventures, Inc.\n14. The Purefoods-Hormel Company, Inc.\n15. Zest-O Corporation\n16. Gardenia Bakeries Philippines, Inc.\n17. NutriAsia, Inc.\n18. Asia Brewery, Inc.\n19. Ginebra San Miguel, Inc.\n20. Emperador Distillers, Inc.\n21. Tanduay Distillers, Inc.\n22. Leslie Corporation\n23. Liwayway Marketing Corporation\n24. Goldilocks Bakeshop, Inc.\n25. Max's Group, Inc.",
+            "all-subclaims": [
+                {
+                    "subclaim": "San Miguel Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jollibee Foods Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Universal Robina Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Del Monte Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Monde Nissin Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Century Pacific Food, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dole Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Nestle Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Coca-Cola Beverages Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Pepsi-Cola Products Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "RFM Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Alaska Milk Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bounty Agro Ventures, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Purefoods-Hormel Company, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zest-O Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gardenia Bakeries Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "NutriAsia, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Asia Brewery, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Ginebra San Miguel, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emperador Distillers, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tanduay Distillers, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Leslie Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Liwayway Marketing Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Goldilocks Bakeshop, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Max's Group, Inc. exists.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "San Miguel Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jollibee Foods Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Universal Robina Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Monde Nissin Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Century Pacific Food, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dole Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Nestle Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Pepsi-Cola Products Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "RFM Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Alaska Milk Corporation exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Purefoods-Hormel Company, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gardenia Bakeries Philippines, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "NutriAsia, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Asia Brewery, Inc. exists.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Max's Group, Inc. exists.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The list of food and beverage companies in the Philippines includes San Miguel Corporation, Jollibee Foods Corporation, Universal Robina Corporation, Monde Nissin Corporation, Century Pacific Food, Inc., Dole Philippines, Inc., Nestle Philippines, Inc., Pepsi-Cola Products Philippines, Inc., RFM Corporation, Alaska Milk Corporation, The Purefoods-Hormel Company, Inc., Gardenia Bakeries Philippines, Inc., NutriAsia, Inc., Asia Brewery, Inc., and Max's Group, Inc."
+        },
+        {
+            "prompt": "where does british airways fly to in south america\n",
+            "original-output": "British Airways flies to several destinations in South America. As of my knowledge up to date, these include:\n\n1. Buenos Aires, Argentina\n2. Rio de Janeiro, Brazil\n3. Sao Paulo, Brazil\n4. Santiago, Chile\n5. Lima, Peru\n\nPlease note that routes may vary and it's always best to check the most current flight information directly from the British Airways website or contact their customer service.",
+            "all-subclaims": [
+                {
+                    "subclaim": "British Airways flies to several destinations in South America.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Buenos Aires, Argentina.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Rio de Janeiro, Brazil.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Sao Paulo, Brazil.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Santiago, Chile.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Lima, Peru.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Flight routes of British Airways may vary.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "It's recommended to check the most current flight information directly from the British Airways website.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "It's recommended to contact British Airways customer service for the most current flight information.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "British Airways flies to several destinations in South America.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Buenos Aires, Argentina.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Rio de Janeiro, Brazil.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Sao Paulo, Brazil.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Santiago, Chile.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Lima, Peru.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Flight routes of British Airways may vary.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "It's recommended to check the most current flight information directly from the British Airways website.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "British Airways flies to several destinations in South America. Some of the cities it services include Buenos Aires in Argentina, Rio de Janeiro and Sao Paulo in Brazil, Santiago in Chile, and Lima in Peru. However, the flight routes of British Airways may vary, so it's recommended to check the most current flight information directly from the British Airways website."
+        },
+        {
+            "prompt": "what is the enthalpy of formation of cao(s)\n",
+            "original-output": "The standard enthalpy of formation of CaO(s) is -635.1 kJ/mol.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The standard enthalpy of formation is a measure used in thermochemistry.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "CaO(s) refers to solid Calcium Oxide.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The standard enthalpy of formation of CaO(s) is -635.1 kJ/mol.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The standard enthalpy of formation is a measure used in thermochemistry.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "CaO(s) refers to solid Calcium Oxide.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The enthalpy of formation of CaO(s), which refers to solid Calcium Oxide, is a measure used in thermochemistry."
+        },
+        {
+            "prompt": "where did the beatles final live performance take place\n",
+            "original-output": "The Beatles' final live performance took place on the rooftop of the Apple Corps building in London, England on January 30, 1969.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Beatles' final live performance took place on a rooftop.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The rooftop was of the Apple Corps building.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Apple Corps building is located in London, England.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The performance took place on January 30, 1969.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The Beatles' final live performance took place on a rooftop.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The rooftop was of the Apple Corps building.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Apple Corps building is located in London, England.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The performance took place on January 30, 1969.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Beatles' final live performance took place on January 30, 1969, on a rooftop. This rooftop was of the Apple Corps building, which is located in London, England."
+        },
+        {
+            "prompt": "who is the president of costa rica 2017\n",
+            "original-output": "The President of Costa Rica in 2017 was Luis Guillermo Sol\u00eds.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The President of Costa Rica existed in 2017.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Sol\u00eds was a person.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Sol\u00eds was the President of Costa Rica in 2017.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The President of Costa Rica existed in 2017.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Sol\u00eds was a person.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Sol\u00eds was the President of Costa Rica in 2017.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The President of Costa Rica in 2017 was a person named Luis Guillermo Sol\u00eds."
+        },
+        {
+            "prompt": "describe charlemagne in the epic the song of roland\n",
+            "original-output": "In the epic \"The Song of Roland,\" Charlemagne is depicted as a wise, powerful, and revered king. He is the Emperor of the Franks and the nephew of Roland, the story's hero. Charlemagne is portrayed as a devout Christian who is guided by his faith in his decisions and actions. He is also depicted as a strong and brave warrior, leading his men into battle against the Saracens.\n\nCharlemagne is shown to be a fair and just ruler, who values loyalty and bravery. He is deeply affected by the death of Roland and seeks revenge against the traitor Ganelon and the Saracens who killed his nephew. Despite his grief, he remains a strong leader, rallying his troops and leading them to victory.\n\nCharlemagne is also depicted as having a supernatural connection. He receives divine guidance and intervention from God and the Archangel Gabriel, who provide him with advice and support. This divine connection underscores Charlemagne's role as a holy warrior and a chosen leader.\n\nOverall, Charlemagne in \"The Song of Roland\" is a complex character who embodies the ideal medieval king: he is wise, brave, just, and devout, with a strong sense of duty and honor.",
+            "all-subclaims": [
+                {
+                    "subclaim": "In the epic 'The Song of Roland,' Charlemagne is depicted as a wise, powerful, and revered king.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is the Emperor of the Franks in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is the nephew of Roland, the story's hero, in 'The Song of Roland.'",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Charlemagne is portrayed as a devout Christian who is guided by his faith in his decisions and actions in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is depicted as a strong and brave warrior, leading his men into battle against the Saracens in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is shown to be a fair and just ruler, who values loyalty and bravery in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is deeply affected by the death of Roland and seeks revenge against the traitor Ganelon and the Saracens who killed his nephew in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite his grief, Charlemagne remains a strong leader, rallying his troops and leading them to victory in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is depicted as having a supernatural connection in 'The Song of Roland.'",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He receives divine guidance and intervention from God and the Archangel Gabriel, who provide him with advice and support in 'The Song of Roland.'",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "This divine connection underscores Charlemagne's role as a holy warrior and a chosen leader in 'The Song of Roland.'",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Charlemagne in 'The Song of Roland' is a complex character who embodies the ideal medieval king: he is wise, brave, just, and devout, with a strong sense of duty and honor.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "In the epic 'The Song of Roland,' Charlemagne is depicted as a wise, powerful, and revered king.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is the Emperor of the Franks in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is portrayed as a devout Christian who is guided by his faith in his decisions and actions in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is depicted as a strong and brave warrior, leading his men into battle against the Saracens in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is shown to be a fair and just ruler, who values loyalty and bravery in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite his grief, Charlemagne remains a strong leader, rallying his troops and leading them to victory in 'The Song of Roland.'",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is depicted as having a supernatural connection in 'The Song of Roland.'",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He receives divine guidance and intervention from God and the Archangel Gabriel, who provide him with advice and support in 'The Song of Roland.'",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "This divine connection underscores Charlemagne's role as a holy warrior and a chosen leader in 'The Song of Roland.'",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Charlemagne in 'The Song of Roland' is a complex character who embodies the ideal medieval king: he is wise, brave, just, and devout, with a strong sense of duty and honor.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "In the epic 'The Song of Roland,' Charlemagne is depicted as a wise, powerful, and revered king. He is the Emperor of the Franks and is portrayed as a devout Christian who is guided by his faith in his decisions and actions. Charlemagne is also depicted as a strong and brave warrior, leading his men into battle against the Saracens. He is shown to be a fair and just ruler, who values loyalty and bravery. Despite his grief, Charlemagne remains a strong leader, rallying his troops and leading them to victory. He is depicted as having a supernatural connection, receiving divine guidance and intervention from God and the Archangel Gabriel, who provide him with advice and support. This divine connection underscores Charlemagne's role as a holy warrior and a chosen leader. Charlemagne in 'The Song of Roland' is a complex character who embodies the ideal medieval king: he is wise, brave, just, and devout, with a strong sense of duty and honor."
+        },
+        {
+            "prompt": "when did power rangers tv show come out\n",
+            "original-output": "The Power Rangers TV show first came out on August 28, 1993.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Power Rangers is a TV show.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Power Rangers TV show first aired on August 28, 1993.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The Power Rangers is a TV show.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Power Rangers TV show first aired on August 28, 1993.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Power Rangers TV show, which is a popular series, first came out on August 28, 1993."
+        },
+        {
+            "prompt": "inheritance of the a b o blood groups is an example of\n",
+            "original-output": "Multiple Allele Inheritance",
+            "all-subclaims": [
+                {
+                    "subclaim": "Multiple Allele Inheritance refers to a type of genetic inheritance",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Multiple Allele Inheritance involves more than two alleles for a particular trait",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Multiple Allele Inheritance can result in a variety of physical characteristics",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "how many beverly hills cops movies are there\n",
+            "original-output": "There are three Beverly Hills Cop movies.",
+            "all-subclaims": [
+                {
+                    "subclaim": "There is a movie called Beverly Hills Cop.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "There is a sequel to Beverly Hills Cop, known as Beverly Hills Cop II.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "There is a third movie in the Beverly Hills Cop series, known as Beverly Hills Cop III.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "There is a movie called Beverly Hills Cop.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "There is a sequel to Beverly Hills Cop, known as Beverly Hills Cop II.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "There is a third movie in the Beverly Hills Cop series, known as Beverly Hills Cop III.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "There are three movies in the Beverly Hills Cop series. The first movie is called Beverly Hills Cop. The series continued with a sequel known as Beverly Hills Cop II, and a third movie known as Beverly Hills Cop III."
+        },
+        {
+            "prompt": "who holds the most women's wimbledon titles\n",
+            "original-output": "Martina Navratilova holds the most Women's Wimbledon titles. She won 9 times between 1978 and 1990.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Martina Navratilova holds the most Women's Wimbledon titles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Martina Navratilova won 9 times at Wimbledon.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Martina Navratilova's Wimbledon wins occurred between 1978 and 1990.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Martina Navratilova holds the most Women's Wimbledon titles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Martina Navratilova won 9 times at Wimbledon.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Martina Navratilova holds the most Women's Wimbledon titles, having won 9 times at Wimbledon."
+        },
+        {
+            "prompt": "what does a dualist way of thinking mean\n",
+            "original-output": "Dualist way of thinking refers to the belief that there are two fundamental, opposing, and irreducible principles, elements, or substances that make up the universe. This could be mind and body, good and evil, physical and spiritual, etc. It's a philosophical concept that suggests these dualities coexist and are equally important in understanding the nature of existence.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Dualist way of thinking refers to the belief that there are two fundamental, opposing, and irreducible principles, elements, or substances that make up the universe.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "These two principles, elements, or substances could be mind and body, good and evil, physical and spiritual, etc.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dualism is a philosophical concept.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "This concept suggests that these dualities coexist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dualism suggests that these dualities are equally important in understanding the nature of existence.",
+                    "annotation": "U"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Dualist way of thinking refers to the belief that there are two fundamental, opposing, and irreducible principles, elements, or substances that make up the universe.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "These two principles, elements, or substances could be mind and body, good and evil, physical and spiritual, etc.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dualism is a philosophical concept.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "This concept suggests that these dualities coexist.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "A dualist way of thinking refers to a philosophical concept that suggests the belief in two fundamental, opposing, and irreducible principles, elements, or substances that make up the universe. These dualities, which could be mind and body, good and evil, physical and spiritual, etc., are believed to coexist."
+        },
+        {
+            "prompt": "where does jinx you owe me a coke come from\n",
+            "original-output": "The phrase \"jinx you owe me a coke\" comes from a game of jinx that children often play. When two people say the same thing at the same time, the first one to say \"jinx\" starts the game. The rules of the game vary, but the common version is that the person who was jinxed cannot speak until someone says their name or if the person who did the jinxing says \"jinx you owe me a coke\". The phrase is mostly used in North America and has been popularized through various TV shows and movies. The origin of the game itself is unclear, but it's believed to have been around since the early 20th century.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' comes from a game of jinx that children often play.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "When two people say the same thing at the same time, the first one to say 'jinx' starts the game.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The rules of the game vary.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The common version of the game is that the person who was jinxed cannot speak until someone says their name or if the person who did the jinxing says 'jinx you owe me a coke'.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' is mostly used in North America.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' has been popularized through various TV shows and movies.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The origin of the game of jinx is unclear.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The game of jinx is believed to have been around since the early 20th century.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' comes from a game of jinx that children often play.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "When two people say the same thing at the same time, the first one to say 'jinx' starts the game.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The common version of the game is that the person who was jinxed cannot speak until someone says their name or if the person who did the jinxing says 'jinx you owe me a coke'.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' is mostly used in North America.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "The origin of the game of jinx is unclear.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The phrase 'jinx you owe me a coke' originates from a game of jinx that children often play. The game begins when two people say the same thing at the same time, and the first one to say 'jinx' initiates the game. The common version of the game dictates that the person who was jinxed cannot speak until someone says their name or if the person who did the jinxing says 'jinx you owe me a coke'. This phrase is predominantly used in North America. However, the origin of the game of jinx is unclear."
+        },
+        {
+            "prompt": "do yahoo email addresses end in com or net\n",
+            "original-output": "Yahoo email addresses typically end in .com.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Yahoo email addresses typically end",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Yahoo email addresses typically end in .com",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Yahoo email addresses typically end",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Yahoo email addresses typically end in .com",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Yahoo email addresses typically end in .com."
+        },
+        {
+            "prompt": "who's making love to your old lady\n",
+            "original-output": "\"Who's Making Love\" is a song by American R&B singer Johnnie Taylor. The phrase \"Who's making love to your old lady\" is a line from the song, which was released in 1968. The song is about infidelity.",
+            "all-subclaims": [
+                {
+                    "subclaim": "\"Who's Making Love\" is a song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song is by American R&B singer Johnnie Taylor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The phrase \"Who's making love to your old lady\" is a line from the song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song was released in 1968.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song is about infidelity.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "\"Who's Making Love\" is a song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song is by American R&B singer Johnnie Taylor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The phrase \"Who's making love to your old lady\" is a line from the song.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "\"Who's Making Love\" is a song by American R&B singer Johnnie Taylor. The phrase \"Who's making love to your old lady\" is a line from this song."
+        },
+        {
+            "prompt": "athletes who have won dancing with the stars\n",
+            "original-output": "1. Emmitt Smith (Season 3) - Former NFL player\n2. Apolo Anton Ohno (Season 4) - Olympic speed skater\n3. H\u00e9lio Castroneves (Season 5) - Race car driver\n4. Kristi Yamaguchi (Season 6) - Olympic figure skater\n5. Shawn Johnson (Season 8) - Olympic gymnast\n6. Hines Ward (Season 12) - Former NFL player\n7. Donald Driver (Season 14) - Former NFL player\n8. Meryl Davis (Season 18) - Olympic ice dancer\n9. Rashad Jennings (Season 24) - Former NFL player\n10. Adam Rippon (Season 26) - Olympic figure skater\n11. Hannah Brown (Season 28) - Former college athlete and The Bachelorette star.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Emmitt Smith is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emmitt Smith was in Season 3.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apolo Anton Ohno is an Olympic speed skater.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apolo Anton Ohno was in Season 4.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "H\u00e9lio Castroneves is a race car driver.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "H\u00e9lio Castroneves was in Season 5.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kristi Yamaguchi is an Olympic figure skater.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kristi Yamaguchi was in Season 6.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shawn Johnson is an Olympic gymnast.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shawn Johnson was in Season 8.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hines Ward is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hines Ward was in Season 12.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donald Driver is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donald Driver was in Season 14.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Meryl Davis is an Olympic ice dancer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Meryl Davis was in Season 18.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rashad Jennings is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rashad Jennings was in Season 24.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adam Rippon is an Olympic figure skater.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adam Rippon was in Season 26.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hannah Brown is a former college athlete and The Bachelorette star.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hannah Brown was in Season 28.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Emmitt Smith is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emmitt Smith was in Season 3.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apolo Anton Ohno is an Olympic speed skater.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apolo Anton Ohno was in Season 4.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "H\u00e9lio Castroneves was in Season 5.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kristi Yamaguchi is an Olympic figure skater.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kristi Yamaguchi was in Season 6.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shawn Johnson is an Olympic gymnast.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shawn Johnson was in Season 8.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hines Ward is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hines Ward was in Season 12.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donald Driver is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donald Driver was in Season 14.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Meryl Davis is an Olympic ice dancer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Meryl Davis was in Season 18.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rashad Jennings is a former NFL player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rashad Jennings was in Season 24.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adam Rippon is an Olympic figure skater.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adam Rippon was in Season 26.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hannah Brown was in Season 28.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Emmitt Smith, a former NFL player, was in Season 3 of Dancing with the Stars. Apolo Anton Ohno, an Olympic speed skater, was in Season 4. H\u00e9lio Castroneves was in Season 5. Kristi Yamaguchi, an Olympic figure skater, was in Season 6. Shawn Johnson, an Olympic gymnast, was in Season 8. Hines Ward, a former NFL player, was in Season 12. Donald Driver, another former NFL player, was in Season 14. Meryl Davis, an Olympic ice dancer, was in Season 18. Rashad Jennings, a former NFL player, was in Season 24. Adam Rippon, an Olympic figure skater, was in Season 26. Hannah Brown was in Season 28."
+        },
+        {
+            "prompt": "equation for the velocity of an object in motion at constant acceleration\n",
+            "original-output": "The equation for the velocity of an object in motion at constant acceleration is:\n\nv = u + at\n\nwhere:\nv = final velocity\nu = initial velocity\na = acceleration\nt = time",
+            "all-subclaims": [
+                {
+                    "subclaim": "The equation for the velocity of an object in motion at constant acceleration is v = u + at",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, v represents the final velocity",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, u represents the initial velocity",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, a represents the acceleration",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, t represents the time",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The equation for the velocity of an object in motion at constant acceleration is v = u + at",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, v represents the final velocity",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, u represents the initial velocity",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, a represents the acceleration",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, t represents the time",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The equation for the velocity of an object in motion at constant acceleration is v = u + at. In this equation, v represents the final velocity, u represents the initial velocity, a represents the acceleration, and t represents the time."
+        },
+        {
+            "prompt": "where does the last name hickey come from\n",
+            "original-output": "The last name Hickey is of Irish origin, derived from the Gaelic name \"O hIceada,\" which means descendant of Iceadh. Iceadh is a personal name of uncertain origin. It was first found in County Clare, located on the west coast of Ireland in the province of Munster.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The last name Hickey is of Irish origin.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hickey is derived from the Gaelic name 'O hIceada'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'O hIceada' means descendant of Iceadh.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Iceadh is a personal name of uncertain origin.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name was first found in County Clare.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "County Clare is located on the west coast of Ireland.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "County Clare is in the province of Munster.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The last name Hickey is of Irish origin.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hickey is derived from the Gaelic name 'O hIceada'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'O hIceada' means descendant of Iceadh.",
+                    "annotation": "U"
+                }
+            ],
+            "new-output": "The last name Hickey comes from Irish origin. It is derived from the Gaelic name 'O hIceada', which means descendant of Iceadh."
+        },
+        {
+            "prompt": "when does maggie come on grey's anatomy\n",
+            "original-output": "Maggie Pierce, played by Kelly McCreary, first appears in Grey's Anatomy in the last episode of Season 10, which aired on May 15, 2014. However, her character is formally introduced in the first episode of Season 11, which aired on September 25, 2014.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Maggie Pierce is a character in Grey's Anatomy.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce is played by Kelly McCreary.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce first appears in the last episode of Season 10 of Grey's Anatomy.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The last episode of Season 10 of Grey's Anatomy aired on May 15, 2014.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce's character is formally introduced in the first episode of Season 11 of Grey's Anatomy.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The first episode of Season 11 of Grey's Anatomy aired on September 25, 2014.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Maggie Pierce is a character in Grey's Anatomy.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce first appears in the last episode of Season 10 of Grey's Anatomy.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The last episode of Season 10 of Grey's Anatomy aired on May 15, 2014.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Maggie Pierce, a character in Grey's Anatomy, first appears in the series on the last episode of Season 10. This episode aired on May 15, 2014."
+        },
+        {
+            "prompt": "the rembrandts i'll be there for you album\n",
+            "original-output": "The song \"I'll Be There for You\" by The Rembrandts is from the album \"LP\" which was released in 1995. However, the song is best known as the theme song to the television show \"Friends\", and it was also included in the soundtrack album \"Friends Original TV Soundtrack\" released in 1995.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The song 'I'll Be There for You' is by The Rembrandts.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song 'I'll Be There for You' is from the album 'LP'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The album 'LP' was released in 1995.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I'll Be There for You' is best known as the theme song to the television show 'Friends'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song 'I'll Be There for You' was included in the soundtrack album 'Friends Original TV Soundtrack'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The soundtrack album 'Friends Original TV Soundtrack' was released in 1995.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The song 'I'll Be There for You' is by The Rembrandts.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song 'I'll Be There for You' is from the album 'LP'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The album 'LP' was released in 1995.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I'll Be There for You' is best known as the theme song to the television show 'Friends'.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The song 'I'll Be There for You' is by The Rembrandts and is from their album 'LP'. This album was released in 1995. The song is best known as the theme song to the television show 'Friends'."
+        },
+        {
+            "prompt": "where do lie bumps come from on your tongue\n",
+            "original-output": "Lie bumps, also known as transient lingual papillitis, can occur due to several reasons. These include stress, hormonal fluctuations, certain foods (like acidic or sugary foods), smoking, or minor injuries such as biting your tongue. However, the exact cause is not known. Despite the name, they have nothing to do with lying or telling falsehoods.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Lie bumps are also known as transient lingual papillitis.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lie bumps can occur due to several reasons.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Stress can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hormonal fluctuations can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Certain foods, like acidic or sugary foods, can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Smoking can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Minor injuries such as biting your tongue can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The exact cause of lie bumps is not known.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite the name, lie bumps have nothing to do with lying or telling falsehoods.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Lie bumps are also known as transient lingual papillitis.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lie bumps can occur due to several reasons.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Stress can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hormonal fluctuations can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Certain foods, like acidic or sugary foods, can cause lie bumps.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite the name, lie bumps have nothing to do with lying or telling falsehoods.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Lie bumps, also known as transient lingual papillitis, can occur on your tongue due to several reasons. Stress can cause these bumps, as can hormonal fluctuations. Certain foods, particularly those that are acidic or sugary, can also lead to the development of lie bumps. Despite the name, it's important to note that lie bumps have nothing to do with lying or telling falsehoods."
+        },
+        {
+            "prompt": "where is the greatest royal rumble taking place\n",
+            "original-output": "The Greatest Royal Rumble took place at the King Abdullah Sports City's King Abdullah International Stadium in Jeddah, Saudi Arabia on April 27, 2018.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Greatest Royal Rumble took place at the King Abdullah Sports City's King Abdullah International Stadium.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The location of the event was in Jeddah, Saudi Arabia.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The event occurred on April 27, 2018.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The Greatest Royal Rumble took place at the King Abdullah Sports City's King Abdullah International Stadium.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The location of the event was in Jeddah, Saudi Arabia.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The event occurred on April 27, 2018.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Greatest Royal Rumble took place at the King Abdullah Sports City's King Abdullah International Stadium in Jeddah, Saudi Arabia on April 27, 2018."
+        },
+        {
+            "prompt": "who sang my name is tallulah in bugsy malone\n",
+            "original-output": "Jodie Foster sang \"My Name is Tallulah\" in Bugsy Malone.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Jodie Foster is a person.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jodie Foster sang a song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song Jodie Foster sang is 'My Name is Tallulah'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'My Name is Tallulah' is a song in Bugsy Malone.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bugsy Malone is a production that includes music.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Jodie Foster is a person.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jodie Foster sang a song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song Jodie Foster sang is 'My Name is Tallulah'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'My Name is Tallulah' is a song in Bugsy Malone.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bugsy Malone is a production that includes music.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Jodie Foster, a person known for her acting, sang the song 'My Name is Tallulah' in Bugsy Malone. Bugsy Malone is a production that includes music, and 'My Name is Tallulah' is one of the songs featured in it."
+        },
+        {
+            "prompt": "a property tax bill is an example of\n",
+            "original-output": "a direct tax",
+            "all-subclaims": [
+                {
+                    "subclaim": "A direct tax is a type of tax",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A direct tax is paid directly by an individual or organization to an imposing entity",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "when did the volcano erupt in indonesia 2018\n",
+            "original-output": "The Anak Krakatau volcano in Indonesia erupted on December 22, 2018.",
+            "all-subclaims": [
+                {
+                    "subclaim": "The Anak Krakatau volcano is located in Indonesia.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Anak Krakatau volcano erupted.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The eruption occurred on December 22, 2018.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The Anak Krakatau volcano is located in Indonesia.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Anak Krakatau volcano erupted.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The Anak Krakatau volcano, which is located in Indonesia, erupted in 2018."
+        },
+        {
+            "prompt": "income elasticity of demand for normal good is always\n",
+            "original-output": "positive",
+            "all-subclaims": [
+                {
+                    "subclaim": "The input is a single word: 'positive'",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "The input is a single word: 'positive'",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "The income elasticity of demand for a normal good is always positive. This is the input we use: a single word, 'positive'."
+        },
+        {
+            "prompt": "what is andy's sisters name in toy story\n",
+            "original-output": "Andy's sister's name in Toy Story is Molly.",
+            "all-subclaims": [
+                {
+                    "subclaim": "Andy is a character in Toy Story.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Andy has a sister in Toy Story.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Andy's sister's name in Toy Story is Molly.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Andy is a character in Toy Story.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Andy, a character in Toy Story, has a sister named Molly."
+        },
+        {
+            "prompt": "who sings with shaggy on it wasn me",
+            "original-output": "Rikrok sings with Shaggy on \"It Wasn't Me\".",
+            "all-subclaims": [
+                {
+                    "subclaim": "Rikrok is a singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shaggy is a singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rikrok and Shaggy have performed together.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'It Wasn't Me' is a song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rikrok and Shaggy sang 'It Wasn't Me' together.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Rikrok is a singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shaggy is a singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rikrok and Shaggy have performed together.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'It Wasn't Me' is a song.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rikrok and Shaggy sang 'It Wasn't Me' together.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Rikrok, who is a singer, has performed with Shaggy, another singer. They sang 'It Wasn't Me' together."
+        }
+    ]
+}

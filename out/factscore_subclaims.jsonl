@@ -1,0 +1,2324 @@
+{
+    "data": [
+        {
+            "prompt": "Tell me a paragraph bio of Lanny Flaherty",
+            "claims": [
+                {
+                    "subclaim": "Lanny Flaherty is an American actor.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty is known for his roles in a variety of films and television shows.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty was born on July 27, 1942.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty was born in Pontotoc, Mississippi.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty has been active in the entertainment industry since the 1970s.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty played Sheriff Tatum in 'Natural Born Killers'.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty played Earl in 'Water for Elephants'.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty played Deputy Clinton Pell in 'Mississippi Burning'.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty has made appearances in the television series 'Boardwalk Empire'.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty has made appearances in the television series 'Law & Order'.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite his extensive filmography, Lanny Flaherty has managed to maintain a relatively low profile in Hollywood.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Marianne McAndrew",
+            "claims": [
+                {
+                    "subclaim": "Marianne McAndrew is an American actress.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She is best known for her role as Irene Molloy in the 1969 film 'Hello, Dolly!'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Marianne McAndrew was born on November 26, 1942 in Cleveland, Ohio.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She began her acting career in the 1960s.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "McAndrew appeared in several television series such as 'The Man from U.N.C.L.E.' and 'Hogan's Heroes'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Her performance in 'Hello, Dolly!' earned her a Golden Globe nomination for New Star of the Year.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "McAndrew retired from acting in the late 1980s.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She is married to actor Stewart Moss.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Chaim Malinowitz",
+            "claims": [
+                {
+                    "subclaim": "Chaim Malinowitz was a renowned rabbi and scholar.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was best known for his work as the general editor of the ArtScroll Schottenstein Edition of the Talmud.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was born in 1952.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was raised in New York.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz studied at the Rabbi Jacob Joseph School.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz studied at the Mir Yeshiva in Brooklyn.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz moved to Israel later in his life.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz served as the rabbi of Beis Tefillah Yonah Avraham, a synagogue in Ramat Beit Shemesh.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was highly respected for his deep knowledge and understanding of Jewish law and philosophy.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz passed away in November 2019.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Doug Sheehan",
+            "claims": [
+                {
+                    "subclaim": "Doug Sheehan is an American actor.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan is known for his roles in popular television series such as 'General Hospital' and 'Knots Landing'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan was born on April 27, 1949.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan was born in Santa Monica, California.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan began his acting career in the late 1970s.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan gained recognition for his role as Joe Kelly on the soap opera 'General Hospital'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan played the role of Joe Kelly from 1979 to 1982.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan joined the cast of 'Knots Landing' in 1983.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Doug Sheehan played the character of Ben Gibson in 'Knots Landing' until 1987.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In addition to his television work, Doug Sheehan has also appeared in several films and stage productions.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Gerhard Fischer (inventor)",
+            "claims": [
+                {
+                    "subclaim": "Gerhard Fischer is a renowned inventor.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fischer is best known for his significant contributions to the field of metal detection technology.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Gerhard Fischer was born in Germany.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fischer immigrated to the United States in the 1930s.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is the founder of Fisher Research Laboratory.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fisher Research Laboratory is one of the oldest and most trusted metal detector manufacturers in the world.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fischer's work led to the development of the first patented metal detector.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The first patented metal detector was used extensively during World War II.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fischer's efforts have had a lasting impact on industries ranging from security to archaeology.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Chief Jones",
+            "claims": [
+                {
+                    "subclaim": "There are several notable individuals known as Chief Jones.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Without specific information, it's difficult to provide an accurate biography for Chief Jones.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chief Buffalo Hump Jones was a renowned Native American leader in the 19th century.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chief John Jones has served in various fire departments across the United States.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chief Marvin Jones is a law enforcement officer with decades of experience.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "More specific details are needed for a more accurate biography of Chief Jones.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Focus...",
+            "claims": [
+                {
+                    "subclaim": "Focus is a Dutch progressive rock band.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Focus was formed in Amsterdam in 1969.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The group is known for its unique blend of rock, jazz, and classical music.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Focus is recognized for its instrumental expertise.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Thijs van Leer is the founder and a keyboardist/flutist for Focus.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Jan Akkerman is a notable guitarist for Focus.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Focus gained international recognition with their hits 'Hocus Pocus' and 'Sylvia'.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'Moving Waves' and 'Focus III' are albums by Focus.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The band has experienced several lineup changes and periods of inactivity.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite changes and periods of inactivity, Focus continues to perform and record.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Focus maintains a dedicated fan base.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Joey D. Vieira",
+            "claims": [
+                {
+                    "subclaim": "Joey D. Vieira is an American actor and musician.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is best known for his role as Sylvester 'Porky' Brockway on the television series 'Lassie' from 1954 to 1957.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Joey D. Vieira was born on April 8, 1944, in Honolulu, Hawaii.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vieira began his acting career as a child actor.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He later changed his stage name to Donald Keeler while performing in the series 'Annette' in 1958.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Apart from acting, Vieira is also a bassist.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He has performed with several bands, including The Standells.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Joey D. Vieira has appeared in several films, including 'Erin Brockovich' and 'The Patriot.'",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Taral Hicks",
+            "claims": [
+                {
+                    "subclaim": "Taral Hicks is an American actress and singer.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She is best known for her role as Jane Williams in the 1993 film 'A Bronx Tale'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Taral Hicks was born on September 21, 1974.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She was born in The Bronx, New York.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hicks began her acting career in the early 1990s.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In addition to acting, Hicks also pursued a career in music.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She signed a deal with Motown Records.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hicks released her debut album, 'This Time,' in 1997.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She took a hiatus from acting and singing in the early 2000s to focus on her family.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hicks returned to the entertainment industry in 2011.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Since 2011, she has continued to work in both film and music.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Lees Knowles",
+            "claims": [
+                {
+                    "subclaim": "Lees Knowles, 1st Baronet, is also known as Sir Lees Knowles.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was a British politician, author, and military historian.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was born on August 5, 1857, in Lancashire, England.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was educated at Trinity College, Cambridge.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles served as a Conservative Member of Parliament for Salford West from 1885 to 1906.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles served as a Conservative Member of Parliament for Nottingham East from 1910 to 1918.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was a prominent speaker on military matters.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles wrote several books on military matters.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was made a baronet in 1917 for his contributions to military literature.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles passed away on November 7, 1928.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Carolina Portesi Peroni",
+            "claims": [
+                {
+                    "subclaim": "The assistant couldn't find any information on a person named Carolina Portesi Peroni.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name Carolina Portesi Peroni might have been misspelled.",
+                    "gpt-score": "0.5",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The person Carolina Portesi Peroni isn't widely recognized or doesn't have a public presence.",
+                    "gpt-score": "0.5",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The assistant is willing to help find the information if additional details are provided.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Quintus Sosius Senecio",
+            "claims": [
+                {
+                    "subclaim": "Quintus Sosius Senecio was a prominent Roman senator and military officer during the 2nd century AD.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was a close friend and confidant of the Emperor Hadrian.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Emperor Hadrian appointed him as consul twice, first in 99 AD and again in 107 AD.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Senecio was a successful military commander, leading campaigns in Britain and Dacia.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was known for his literary interests.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Senecio was a patron of the famous Greek philosopher and biographer Plutarch.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite his high-ranking positions and influence, little is known about his personal life.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Joeri Adams",
+            "claims": [
+                {
+                    "subclaim": "Joeri Adams is a Belgian professional cyclist.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Joeri Adams was born on 15th June 1989 in Turnhout, Belgium.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He began his professional career in 2010 with the Rabobank Continental Team.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Adams moved to Telenet-Fidea in 2011.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Adams has competed in various cyclo-cross and road racing events throughout his career.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite not having any major wins to his name, he has consistently performed well in several national and international competitions.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Joeri Adams is known for his endurance and technical skills on the bike.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Dominic King",
+            "claims": [
+                {
+                    "subclaim": "Dominic King is a British radio presenter and journalist.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Dominic King is best known for his work with BBC Radio Kent.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He began his career in the late 1980s.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Dominic King worked for various local radio stations before joining the BBC in 1997.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "King has become a prominent figure in the broadcasting industry.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Dominic King has hosted a variety of shows and interviewed numerous high-profile guests.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In addition to his radio work, Dominic King has also written for several newspapers and magazines.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Dominic King has established his reputation as a respected journalist.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Vincenzo Tusa",
+            "claims": [
+                {
+                    "subclaim": "Vincenzo Tusa was an Italian archaeologist.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa made significant contributions to the field of underwater archaeology.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa was born in 1920 in Salemi, Sicily.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He studied at the University of Palermo.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa later became the Superintendent of Antiquities for the Sicilian Region.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Tusa is best known for his work in the Egadi Islands.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He discovered numerous shipwrecks and artifacts from the First Punic War in the Egadi Islands.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa played a crucial role in the establishment of the Museum of the Sea in Favignana.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa passed away in 2004.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Tusa left behind a rich legacy in the world of archaeology.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Jean Daull\u00e9",
+            "claims": [
+                {
+                    "subclaim": "Jean Daull\u00e9 was a French engraver.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Jean Daull\u00e9 was born in Abbeville in 1703.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He studied under Jean-Baptiste Scotin.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Daull\u00e9 became a member of the French Royal Academy of Painting and Sculpture in 1742.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was known for his exceptional skill in engraving.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Daull\u00e9 specialized in reproductions of famous paintings.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His works include engravings of pieces by artists such as Van Dyck, Veronese, and Rubens.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He engraved portraits of notable figures of his time, including Louis XV and Madame de Pompadour.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Jean Daull\u00e9 passed away in Paris in 1763.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Richard Burkewood Welbourn",
+            "claims": [
+                {
+                    "subclaim": "Richard Burkewood Welbourn was a renowned British surgeon.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn made significant contributions to the field of endocrine surgery.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn was born on 24th November 1926.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn studied medicine at St Bartholomew's Hospital Medical College, London.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn is best known for his work in developing the field of thyroid and parathyroid surgery.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn established the first endocrine surgical unit in the UK at the Bristol Royal Infirmary.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn played a key role in founding the British Association of Endocrine Surgeons.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn played a key role in founding the International Association of Endocrine Surgeons.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn passed away on 30th October 2019.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Damir Memovi\u0107",
+            "claims": [
+                {
+                    "subclaim": "There is no information found on a person named Damir Memovi\u0107.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name Damir Memovi\u0107 may have been misspelled.",
+                    "gpt-score": "0.5",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The person in question, Damir Memovi\u0107, may not be a public figure or widely recognized.",
+                    "gpt-score": "0.6",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The assistant is willing to help further if more details or context are provided.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Mar\u00eda Elena Medina-Mora Icaza",
+            "claims": [
+                {
+                    "subclaim": "Mar\u00eda Elena Medina-Mora Icaza is a Mexican psychologist and researcher.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She specializes in the field of epidemiology and mental health.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Medina-Mora is the Director of the National Institute of Psychiatry Ram\u00f3n de la Fuente Mu\u00f1iz in Mexico City.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has made significant contributions to the understanding of substance abuse and mental disorders, particularly in the Mexican population.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Medina-Mora has published numerous articles in international scientific journals.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has been recognized for her work with several awards.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She is a member of the National System of Researchers in Mexico.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Medina-Mora is a member of the National Academy of Medicine.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Hesham Nazih",
+            "claims": [
+                {
+                    "subclaim": "Hesham Nazih is a renowned Egyptian music composer and producer.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hesham Nazih is best known for his work in the Arabic music industry.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hesham Nazih has composed music for many popular Arabic singers, including Amr Diab, Sherine, and Tamer Hosny.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hesham Nazih's work has been recognized with several awards.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hesham Nazih is considered one of the leading figures in contemporary Arabic music.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Hesham Nazih's compositions are known for their unique blend of traditional Arabic melodies with modern pop elements.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Luis Guillermo Rivera\n",
+            "original-output": "Luis Guillermo Rivera is a professional athlete from Colombia who specializes in high jump. He was born on March 20, 1989 in Apartad\u00f3, Colombia. Rivera has represented Colombia in several international competitions, including the World Championships in Athletics and the Pan American Games. He won the gold medal in the high jump at the 2013 South American Championships in Athletics. His personal best in the high jump is 2.31 meters, which he achieved in 2013.",
+            "claims": [
+                {
+                    "subclaim": "Luis Guillermo Rivera is a professional athlete from Colombia.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera specializes in high jump.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera was born on March 20, 1989.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera was born in Apartad\u00f3, Colombia.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera has represented Colombia in several international competitions.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera has competed in the World Championships in Athletics.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera has competed in the Pan American Games.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera won the gold medal in the high jump at the 2013 South American Championships in Athletics.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera's personal best in the high jump is 2.31 meters.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera achieved his personal best in the high jump in 2013.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Desmond Luke\n",
+            "original-output": "Without more context, it's unclear who Desmond Luke might be. It could be a personal name, a character in a book or movie, or something else entirely. Please provide more information.",
+            "claims": [
+                {
+                    "subclaim": "Without more context, it's unclear who Desmond Luke might be.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Desmond Luke could be a personal name.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Desmond Luke could be a character in a book or movie.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Desmond Luke could be something else entirely.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "More information is needed to identify who or what Desmond Luke is.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Miguel D\u00edaz (baseball)\n",
+            "original-output": "Miguel D\u00edaz is a professional baseball player who has played as a pitcher in Major League Baseball (MLB). He was born on November 28, 1994, in San Cristobal, Dominican Republic. D\u00edaz was signed by the Milwaukee Brewers as an international free agent in 2011. He made his MLB debut with the San Diego Padres in 2017. He has also played for the Minnesota Twins.",
+            "claims": [
+                {
+                    "subclaim": "Miguel D\u00edaz is a professional baseball player.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz has played as a pitcher in Major League Baseball (MLB).",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was born on November 28, 1994.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was born in San Cristobal, Dominican Republic.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was signed by the Milwaukee Brewers as an international free agent in 2011.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz made his MLB debut with the San Diego Padres in 2017.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz has also played for the Minnesota Twins.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Roxana D\u00edaz (athlete)\n",
+            "original-output": "Roxana D\u00edaz is a Venezuelan athlete who specializes in the 400 meters hurdles. She represented her country in various international competitions, including the World Championships and the Pan American Games. D\u00edaz is known for her speed, agility, and determination on the track. She has won several medals throughout her career, making her one of the most successful athletes in her country.",
+            "claims": [
+                {
+                    "subclaim": "Roxana D\u00edaz is a Venezuelan athlete.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She specializes in the 400 meters hurdles.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "D\u00edaz has represented Venezuela in various international competitions.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has participated in the World Championships.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has participated in the Pan American Games.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "D\u00edaz is known for her speed, agility, and determination on the track.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has won several medals throughout her career.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Roxana D\u00edaz is one of the most successful athletes in Venezuela.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Fernando (footballer, born 1984)\n",
+            "original-output": "Fernando Francisco Reges Mouta, known as Fernando, is a Brazilian professional footballer born on July 25, 1984. He plays as a defensive midfielder. Fernando started his career with Vila Nova before moving to Portugal where he played for Estrela da Amadora and FC Porto. He then moved to Manchester City in England and later to Galatasaray in Turkey. Despite being born in Brazil, Fernando represented Portugal internationally after gaining citizenship in 2013.",
+            "claims": [
+                {
+                    "subclaim": "Fernando Francisco Reges Mouta, known as Fernando, is a Brazilian professional footballer.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando was born on July 25, 1984.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando plays as a defensive midfielder.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando started his career with Vila Nova.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando moved to Portugal where he played for Estrela da Amadora and FC Porto.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando moved to Manchester City in England.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando later moved to Galatasaray in Turkey.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite being born in Brazil, Fernando represented Portugal internationally.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando gained Portuguese citizenship in 2013.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Gerardo Fernandez Fe\n",
+            "original-output": "It appears you may be referring to Gerardo Fern\u00e1ndez Fe, a Cuban writer and journalist. He has written several books and articles on Cuban culture and history. He is also known for his work as a literary critic and essayist. His work often explores themes of identity, exile, and the Cuban diaspora.",
+            "claims": [
+                {
+                    "subclaim": "You may be referring to Gerardo Fern\u00e1ndez Fe.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Gerardo Fern\u00e1ndez Fe is a Cuban writer and journalist.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He has written several books and articles on Cuban culture and history.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Gerardo Fern\u00e1ndez Fe is known for his work as a literary critic and essayist.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His work often explores themes of identity, exile, and the Cuban diaspora.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Augusto Mart\u00ednez S\u00e1nchez\n",
+            "original-output": "Without more specific information, it's difficult to provide details on Augusto Mart\u00ednez S\u00e1nchez. The name is quite common in Spanish-speaking countries. He could be a professional in any number of fields, or a private individual. If you have more details like his profession or the country he is from, I might be able to provide more information.",
+            "claims": [
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide details on Augusto Mart\u00ednez S\u00e1nchez.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name Augusto Mart\u00ednez S\u00e1nchez is quite common in Spanish-speaking countries.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Augusto Mart\u00ednez S\u00e1nchez could be a professional in any number of fields.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Augusto Mart\u00ednez S\u00e1nchez could be a private individual.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "More details like his profession or the country he is from could help in providing more information about Augusto Mart\u00ednez S\u00e1nchez.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Sharad Kumar (athlete)\n",
+            "original-output": "Sharad Kumar is an Indian para-athlete who competes in high jump events. He was born on March 1, 1992, in Bihar, India. Kumar was diagnosed with polio at a young age, which affected his left leg. Despite this, he pursued his passion for sports and began training as a high jumper.\n\nKumar has represented India in several international competitions and has won numerous medals. He won a gold medal at the 2014 Asian Para Games in Incheon, South Korea, and a silver medal at the 2018 Asian Para Games in Jakarta, Indonesia. He also won a bronze medal at the 2017 World Para Athletics Championships in London.\n\nIn 2021, Kumar won a bronze medal in the men's high jump T42 category at the Tokyo Paralympics, marking his first Paralympic medal. His personal best in high jump is 1.90 meters, which he achieved at the 2017 World Para Athletics Championships.",
+            "claims": [
+                {
+                    "subclaim": "Sharad Kumar is an Indian para-athlete who competes in high jump events.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar was born on March 1, 1992, in Bihar, India.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar was diagnosed with polio at a young age, which affected his left leg.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite his condition, Sharad Kumar pursued his passion for sports and began training as a high jumper.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar has represented India in several international competitions.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar has won numerous medals in his career.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar won a gold medal at the 2014 Asian Para Games in Incheon, South Korea.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar won a silver medal at the 2018 Asian Para Games in Jakarta, Indonesia.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar won a bronze medal at the 2017 World Para Athletics Championships in London.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In 2021, Sharad Kumar won a bronze medal in the men's high jump T42 category at the Tokyo Paralympics.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The bronze medal at the Tokyo Paralympics was Sharad Kumar's first Paralympic medal.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar's personal best in high jump is 1.90 meters.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar achieved his personal best in high jump at the 2017 World Para Athletics Championships.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Ko Itakura\n",
+            "original-output": "Ko Itakura is a professional footballer from Japan who plays as a midfielder for the Japanese national team and for the club FC Groningen, on loan from Manchester City. He was born on January 27, 1997 in Yokohama, Japan. Before joining Manchester City in 2019, he played for Kawasaki Frontale and Hokkaido Consadole Sapporo in the J1 League, the top tier of Japanese football.",
+            "claims": [
+                {
+                    "subclaim": "Ko Itakura is a professional footballer from Japan.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He plays as a midfielder for the Japanese national team.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Ko Itakura plays for the club FC Groningen.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is on loan from Manchester City.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Ko Itakura was born on January 27, 1997.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was born in Yokohama, Japan.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Before joining Manchester City in 2019, he played for Kawasaki Frontale.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He also played for Hokkaido Consadole Sapporo in the J1 League.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The J1 League is the top tier of Japanese football.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Besant Ravi\n",
+            "original-output": "Besant Ravi is an Indian film actor and stunt coordinator who primarily works in the Tamil film industry. He has been a part of several successful films and is known for his action sequences. Ravi has also acted in a few films, showcasing his versatility in the industry. He has been in the film industry for several years and has made a significant contribution to Tamil cinema.",
+            "claims": [
+                {
+                    "subclaim": "Besant Ravi is an Indian film actor.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Besant Ravi is a stunt coordinator.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Besant Ravi primarily works in the Tamil film industry.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He has been a part of several successful films.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Besant Ravi is known for his action sequences.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Ravi has acted in a few films.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Besant Ravi has showcased his versatility in the film industry.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He has been in the film industry for several years.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Besant Ravi has made a significant contribution to Tamil cinema.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Thomas Houghton (rugby league)\n",
+            "original-output": "Thomas Houghton is a professional rugby league footballer who plays as a winger for the Leigh Centurions in the Betfred Championship. He has previously played for the St Helens RFC in the Super League. Houghton is known for his speed and agility on the field.",
+            "claims": [
+                {
+                    "subclaim": "Thomas Houghton is a professional rugby league footballer.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He plays as a winger for the Leigh Centurions.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The Leigh Centurions participate in the Betfred Championship.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Thomas Houghton has previously played for the St Helens RFC.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "St Helens RFC is a team in the Super League.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Houghton is known for his speed and agility on the field.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Katsunosuke Hori\n",
+            "original-output": "Katsunosuke Hori is a Japanese actor and voice actor. He was born on November 28, 1941 in Tokyo, Japan. He is best known for his work in anime and video games, including roles in \"Neon Genesis Evangelion\", \"Ghost in the Shell: Stand Alone Complex\", and \"Final Fantasy VII: Advent Children\". He is also known for his dubbing roles in foreign films, such as the voice of Gandalf in the Japanese version of \"The Lord of the Rings\" trilogy.",
+            "claims": [
+                {
+                    "subclaim": "Katsunosuke Hori is a Japanese actor and voice actor.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori was born on November 28, 1941.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori was born in Tokyo, Japan.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori is known for his work in anime and video games.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori has roles in 'Neon Genesis Evangelion', 'Ghost in the Shell: Stand Alone Complex', and 'Final Fantasy VII: Advent Children'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori is known for his dubbing roles in foreign films.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori voiced Gandalf in the Japanese version of 'The Lord of the Rings' trilogy.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Ra Jong-yil\n",
+            "original-output": "Ra Jong-yil is a South Korean diplomat and academic. He served as the South Korean ambassador to the United Kingdom and Japan. He also served as the deputy director of the National Intelligence Service. As an academic, he has taught at various universities and written several books on North Korea and international relations.",
+            "claims": [
+                {
+                    "subclaim": "Ra Jong-yil is a South Korean diplomat and academic.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He served as the South Korean ambassador to the United Kingdom.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He served as the South Korean ambassador to Japan.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He also served as the deputy director of the National Intelligence Service.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "As an academic, he has taught at various universities.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He has written several books on North Korea and international relations.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Song Kang\n",
+            "original-output": "Song Kang is a South Korean actor who gained international fame for his role in the Netflix series \"Love Alarm\". He was born on April 23, 1994 in Suwon, South Korea. He made his acting debut in 2017 in the television series \"The Liar and His Lover\". Since then, he has appeared in several other TV shows and films, including \"When the Devil Calls Your Name\", \"Sweet Home\", and \"Navillera\". Song Kang is known for his good looks, acting skills, and charming personality.",
+            "claims": [
+                {
+                    "subclaim": "Song Kang is a South Korean actor.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang gained international fame for his role in the Netflix series 'Love Alarm'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang was born on April 23, 1994 in Suwon, South Korea.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang made his acting debut in 2017 in the television series 'The Liar and His Lover'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'When the Devil Calls Your Name'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'Sweet Home'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'Navillera'.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang is known for his good looks.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang is known for his acting skills.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Song Kang is known for his charming personality.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Rin Iwanaga\n",
+            "original-output": "I'm sorry, but I couldn't find any information on a person named Rin Iwanaga. It's possible that you may have misspelled the name or the person you're asking about isn't widely known. If they're a private individual, it would be inappropriate to share personal details about them.",
+            "claims": [
+                {
+                    "subclaim": "The assistant couldn't find any information on a person named Rin Iwanaga.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name Rin Iwanaga might have been misspelled.",
+                    "gpt-score": 0.6,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The person Rin Iwanaga isn't widely known.",
+                    "gpt-score": 0.6,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rin Iwanaga could be a private individual.",
+                    "gpt-score": 0.6,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "It would be inappropriate to share personal details about a private individual.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Keita Kadokura\n",
+            "original-output": "There isn't enough information available on a person named Keita Kadokura. It's possible that you may have misspelled the name or the person you're asking about isn't widely known. If they're a private individual, it would be inappropriate to share personal details about them.",
+            "claims": [
+                {
+                    "subclaim": "There isn't enough information available on a person named Keita Kadokura.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "It's possible that the name Keita Kadokura may have been misspelled.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The person named Keita Kadokura isn't widely known.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "If Keita Kadokura is a private individual, it would be inappropriate to share personal details about them.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Lily Branscombe\n",
+            "original-output": "It appears you are referring to a person named Lily Branscombe. However, without more specific information, it's difficult to provide any details. There are several people with that name listed online, including on social media and professional networking sites. If you're referring to a specific individual in a public role, such as an author, actor, or other public figure, please provide more information.",
+            "claims": [
+                {
+                    "subclaim": "You are referring to a person named Lily Branscombe.",
+                    "gpt-score": "0.5",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide any details about Lily Branscombe.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "There are several people with the name Lily Branscombe listed online.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lily Branscombe is a name found on social media and professional networking sites.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "If you're referring to a specific individual in a public role, such as an author, actor, or other public figure, more information is needed.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Luis N. Rivera-Pag\u00e1n\n",
+            "original-output": "Luis N. Rivera-Pag\u00e1n is a Puerto Rican theologian and author. He was the first Latino to be tenured as a professor at Princeton Theological Seminary, where he taught for many years. His work focuses on the intersection of religion, colonialism, and social justice, particularly in the context of Latin America and the Caribbean. He has written several books, including \"A Violent Evangelism: The Political and Religious Conquest of the Americas\" and \"Essays from the Margins\".",
+            "claims": [
+                {
+                    "subclaim": "Luis N. Rivera-Pag\u00e1n is a Puerto Rican theologian and author.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was the first Latino to be tenured as a professor at Princeton Theological Seminary.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He taught for many years at Princeton Theological Seminary.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His work focuses on the intersection of religion, colonialism, and social justice.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His work is particularly focused in the context of Latin America and the Caribbean.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He has written several books.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is the author of the book 'A Violent Evangelism: The Political and Religious Conquest of the Americas'.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is the author of the book 'Essays from the Margins'.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Jesse Foppert\n",
+            "original-output": "Jesse Foppert is a former professional baseball player from the United States. He was born on July 10, 1980 in Reading, Pennsylvania. Foppert was a pitcher and played in Major League Baseball (MLB) for the San Francisco Giants and the Seattle Mariners. He was considered one of the top pitching prospects in baseball in 2003, but his career was derailed by injuries. After retiring from professional baseball, Foppert became a coach.",
+            "claims": [
+                {
+                    "subclaim": "Jesse Foppert is a former professional baseball player from the United States.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was born on July 10, 1980 in Reading, Pennsylvania.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Foppert was a pitcher in Major League Baseball (MLB).",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He played for the San Francisco Giants and the Seattle Mariners.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was considered one of the top pitching prospects in baseball in 2003.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His career was derailed by injuries.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "After retiring from professional baseball, Foppert became a coach.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Mike Trivisonno\n",
+            "original-output": "Mike Trivisonno is a popular radio host based in Cleveland, Ohio. He is best known for his show \"The Mike Trivisonno Show\" which airs on WTAM 1100. Trivisonno, often referred to as \"Triv\", has been with the station since 1987 and his show is one of the highest-rated in the Cleveland area. He is known for his outspoken and often controversial opinions on a wide range of topics, including politics, sports, and current events.",
+            "claims": [
+                {
+                    "subclaim": "Mike Trivisonno is a popular radio host.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Mike Trivisonno is based in Cleveland, Ohio.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is best known for his show 'The Mike Trivisonno Show'.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'The Mike Trivisonno Show' airs on WTAM 1100.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Mike Trivisonno has been with WTAM 1100 since 1987.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His show is one of the highest-rated in the Cleveland area.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Mike Trivisonno is often referred to as 'Triv'.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is known for his outspoken and often controversial opinions.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Mike Trivisonno discusses a wide range of topics, including politics, sports, and current events.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Zelma Wilson\n",
+            "original-output": "Zelma Wilson (1926-1996) was an American architect known for her work in the field of sustainable design. She was one of the first women to establish her own architectural firm in California and was a pioneer in the use of solar energy in architecture. Wilson's designs often incorporated natural materials and were designed to blend in with their surroundings. Some of her most notable projects include the Ojai City Hall and the Ventura County Government Center. She was also a dedicated advocate for women in architecture and served as a mentor to many young architects.",
+            "claims": [
+                {
+                    "subclaim": "Zelma Wilson was born in 1926.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson died in 1996.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson was an American architect.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson was known for her work in the field of sustainable design.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson was one of the first women to establish her own architectural firm in California.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson was a pioneer in the use of solar energy in architecture.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson's designs often incorporated natural materials.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson's designs were designed to blend in with their surroundings.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson designed the Ojai City Hall.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson designed the Ventura County Government Center.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson was a dedicated advocate for women in architecture.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson served as a mentor to many young architects.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Michael Valpy\n",
+            "original-output": "Michael Valpy is a Canadian journalist, author, and lecturer. He was born on July 30, 1942 in Toronto, Ontario. He is best known for his work as a senior writer for The Globe and Mail, a leading Canadian newspaper, where he covered both national and international news. Valpy has also written several books on Canadian politics and history, and has taught journalism at several universities. He is a three-time nominee for the Governor General's Award, Canada's top literary honor.",
+            "claims": [
+                {
+                    "subclaim": "Michael Valpy is a Canadian journalist.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy is an author.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy is a lecturer.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy was born on July 30, 1942.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy was born in Toronto, Ontario.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy is best known for his work as a senior writer for The Globe and Mail.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The Globe and Mail is a leading Canadian newspaper.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy covered both national and international news for The Globe and Mail.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy has written several books on Canadian politics and history.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy has taught journalism at several universities.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Michael Valpy is a three-time nominee for the Governor General's Award.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The Governor General's Award is Canada's top literary honor.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Prince Rivers\n",
+            "original-output": "Prince Rivers was an African-American slave who gained his freedom and became a Union soldier and politician during and after the American Civil War. He was born into slavery in South Carolina around 1824. Rivers was a skilled blacksmith and was hired out by his master, earning enough money to buy his freedom in 1850.\n\nDuring the Civil War, Rivers joined the Union Army and quickly rose to the rank of sergeant in the 1st South Carolina Volunteers, one of the first African-American regiments. He was known for his leadership skills and courage in battle.\n\nAfter the war, Rivers became involved in politics. He served as a delegate to the South Carolina Constitutional Convention in 1868 and was elected to the South Carolina House of Representatives, where he served from 1868 to 1874. Rivers was a strong advocate for civil rights and education for African Americans.\n\nDespite his accomplishments, Rivers faced significant racial discrimination and violence. He was attacked by the Ku Klux Klan and other white supremacist groups. In 1877, Rivers was forced to flee South Carolina due to threats against his life. He died in obscurity in Florida in 1887.",
+            "claims": [
+                {
+                    "subclaim": "Prince Rivers was an African-American slave who gained his freedom and became a Union soldier and politician during and after the American Civil War.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Prince Rivers was born into slavery in South Carolina around 1824.",
+                    "gpt-score": 0.6,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rivers was a skilled blacksmith and was hired out by his master, earning enough money to buy his freedom in 1850.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "During the Civil War, Rivers joined the Union Army and quickly rose to the rank of sergeant in the 1st South Carolina Volunteers, one of the first African-American regiments.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rivers was known for his leadership skills and courage in battle.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "After the war, Rivers became involved in politics.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He served as a delegate to the South Carolina Constitutional Convention in 1868 and was elected to the South Carolina House of Representatives, where he served from 1868 to 1874.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rivers was a strong advocate for civil rights and education for African Americans.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite his accomplishments, Rivers faced significant racial discrimination and violence.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He was attacked by the Ku Klux Klan and other white supremacist groups.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In 1877, Rivers was forced to flee South Carolina due to threats against his life.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He died in obscurity in Florida in 1887.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "John Estes\n",
+            "original-output": "John Estes may refer to:\n\n1. Sleepy John Estes (1899\u20131977), American blues guitarist, songwriter and vocalist.\n2. John Adam Estes (1919\u20132001), American politician who served as a member of the Texas House of Representatives.\n3. John Estes (American football) (born 1986), American football center.\n4. John C. Estes, American screenwriter known for his work on films like \"Mean Creek\" and \"The Details\". \n\nWithout more specific information, it's hard to provide details on the correct John Estes.",
+            "claims": [
+                {
+                    "subclaim": "Sleepy John Estes was an American blues guitarist, songwriter and vocalist.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sleepy John Estes was born in 1899 and died in 1977.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Adam Estes was an American politician.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Adam Estes served as a member of the Texas House of Representatives.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Adam Estes was born in 1919 and died in 2001.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Estes is an American football center.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Estes was born in 1986.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John C. Estes is an American screenwriter.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John C. Estes is known for his work on films like 'Mean Creek' and 'The Details'.",
+                    "gpt-score": 0.7,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Without more specific information, it's hard to provide details on the correct John Estes.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Eric Hacker\n",
+            "original-output": "Eric Hacker is a professional baseball player from Texas, USA. He was born on March 26, 1983. Hacker is a right-handed pitcher who has played for several Major League Baseball (MLB) teams, including the New York Yankees, Pittsburgh Pirates, and Minnesota Twins. He has also played in the Korean Baseball Organization (KBO) for the NC Dinos. Despite his last name, there is no known record of him being involved in computer hacking.",
+            "claims": [
+                {
+                    "subclaim": "Eric Hacker is a professional baseball player.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker is from Texas, USA.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker was born on March 26, 1983.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker is a right-handed pitcher.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for several Major League Baseball (MLB) teams.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the New York Yankees.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the Pittsburgh Pirates.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the Minnesota Twins.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Eric Hacker has played in the Korean Baseball Organization (KBO) for the NC Dinos.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite his last name, there is no known record of Eric Hacker being involved in computer hacking.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Alma Katsu\n",
+            "original-output": "Alma Katsu is an American writer of adult fiction. Her work spans a range of genres, including horror, historical, and speculative fiction. She is best known for her debut novel, \"The Taker,\" which was published in 2011 and was named one of the top ten debut novels of the year by Booklist. Katsu has also worked for several U.S. intelligence agencies, and she brings this experience to bear in her writing, particularly in her depiction of psychological suspense.",
+            "claims": [
+                {
+                    "subclaim": "Alma Katsu is an American writer of adult fiction.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Her work spans a range of genres, including horror, historical, and speculative fiction.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She is best known for her debut novel, 'The Taker.'",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'The Taker' was published in 2011.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'The Taker' was named one of the top ten debut novels of the year by Booklist.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsu has worked for several U.S. intelligence agencies.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She brings her experience from working in U.S. intelligence agencies to bear in her writing.",
+                    "gpt-score": "0.7",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Her writing particularly depicts psychological suspense.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Carlos Alfonso\n",
+            "original-output": "There could be several individuals named Carlos Alfonso, as it is a common name in Spanish-speaking countries. Without more specific information, it's difficult to provide details. Some notable people named Carlos Alfonso include Carlos Alfonso (musician), a Cuban musician and member of the band S\u00edntesis, and Carlos Alfonso (baseball), a former professional baseball player from the Dominican Republic. Please provide more details for more specific information.",
+            "claims": [
+                {
+                    "subclaim": "There could be several individuals named Carlos Alfonso.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Carlos Alfonso is a common name in Spanish-speaking countries.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide details about individuals named Carlos Alfonso.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Some notable people named Carlos Alfonso include Carlos Alfonso (musician), a Cuban musician.",
+                    "gpt-score": "0.6",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Carlos Alfonso (musician) is a member of the band S\u00edntesis.",
+                    "gpt-score": "0.6",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Another notable person named Carlos Alfonso is Carlos Alfonso (baseball), a former professional baseball player.",
+                    "gpt-score": "0.6",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Carlos Alfonso (baseball) is from the Dominican Republic.",
+                    "gpt-score": "0.6",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "More details are needed for more specific information about individuals named Carlos Alfonso.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Rennie Fritchie, Baroness Fritchie\n",
+            "original-output": "Rennie Fritchie, Baroness Fritchie, DBE (born 1942) is a British public servant and crossbench member of the House of Lords. She has held a number of high-profile roles in public service, including serving as the Commissioner for Public Appointments in the United Kingdom from 1999 to 2005. She was also the Chair of Nominet UK, the .uk domain name registry, from 2005 to 2010. In 2005, she was made a life peer as Baroness Fritchie, of Gloucester in the County of Gloucestershire. She has also served on the boards of several other organizations, including the BBC and the Prince's Trust.",
+            "claims": [
+                {
+                    "subclaim": "Rennie Fritchie, Baroness Fritchie, DBE was born in 1942.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie is a British public servant.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie is a crossbench member of the House of Lords.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie has held a number of high-profile roles in public service.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie served as the Commissioner for Public Appointments in the United Kingdom from 1999 to 2005.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie was the Chair of Nominet UK, the .uk domain name registry, from 2005 to 2010.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In 2005, Rennie Fritchie was made a life peer as Baroness Fritchie, of Gloucester in the County of Gloucestershire.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie has served on the boards of several other organizations, including the BBC and the Prince's Trust.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Daniel Charles\n",
+            "original-output": "There could be many people named Daniel Charles, as it is a common name. Without more specific information, it's impossible to provide details about a specific individual named Daniel Charles. It could refer to anyone from a private individual to a professional in any number of fields. Please provide more context.",
+            "claims": [
+                {
+                    "subclaim": "There could be many people named Daniel Charles.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Daniel Charles is a common name.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Without more specific information, it's impossible to provide details about a specific individual named Daniel Charles.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name Daniel Charles could refer to anyone from a private individual to a professional in any number of fields.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "More context is needed to provide details about a specific individual named Daniel Charles.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "Zamfir Arbore",
+            "original-output": "Zamfir Ralli-Arbore (1848\u20131933) was a Romanian political activist and historian from Bessarabia, who spent much of his life in exile. As a member of the National Liberal Party, he campaigned for the union of his native region with the Kingdom of Romania, and was a prominent opponent of Russian and Soviet policies. He was also a noted historian, specializing in the history of the Moldavia and Wallachia during the Middle Ages.",
+            "claims": [
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was born in 1848.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore died in 1933.",
+                    "gpt-score": "1",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a Romanian political activist.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a historian.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was from Bessarabia.",
+                    "gpt-score": "0.9",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore spent much of his life in exile.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a member of the National Liberal Party.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore campaigned for the union of his native region with the Kingdom of Romania.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a prominent opponent of Russian and Soviet policies.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore specialized in the history of the Moldavia and Wallachia during the Middle Ages.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                }
+            ]
+        }
+    ]
+}

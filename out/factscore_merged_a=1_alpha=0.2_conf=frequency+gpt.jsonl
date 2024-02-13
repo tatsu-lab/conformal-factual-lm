@@ -1,0 +1,2784 @@
+{
+    "data": [
+        {
+            "prompt": "Tell me a paragraph bio of Lanny Flaherty",
+            "all-subclaims": [
+                {
+                    "subclaim": "Lanny Flaherty is an American actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty is known for his roles in a variety of films and television shows.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty was born on July 27, 1942.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty was born in Pontotoc, Mississippi.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty has been active in the entertainment industry since the 1970s.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty played Sheriff Tatum in 'Natural Born Killers'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty played Earl in 'Water for Elephants'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty played Deputy Clinton Pell in 'Mississippi Burning'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty has made appearances in the television series 'Boardwalk Empire'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lanny Flaherty has made appearances in the television series 'Law & Order'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite his extensive filmography, Lanny Flaherty has managed to maintain a relatively low profile in Hollywood.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Lanny Flaherty is an American actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty is known for his roles in a variety of films and television shows.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lanny Flaherty was born in Pontotoc, Mississippi.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Lanny Flaherty is an American actor, born in Pontotoc, Mississippi. He is known for his roles in a variety of films and television shows. His diverse acting career has allowed him to showcase his talent in different mediums, making him a recognizable figure in the industry."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Marianne McAndrew",
+            "all-subclaims": [
+                {
+                    "subclaim": "Marianne McAndrew is an American actress.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is best known for her role as Irene Molloy in the 1969 film 'Hello, Dolly!'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Marianne McAndrew was born on November 26, 1942 in Cleveland, Ohio.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She began her acting career in the 1960s.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "McAndrew appeared in several television series such as 'The Man from U.N.C.L.E.' and 'Hogan's Heroes'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Her performance in 'Hello, Dolly!' earned her a Golden Globe nomination for New Star of the Year.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "McAndrew retired from acting in the late 1980s.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She is married to actor Stewart Moss.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Marianne McAndrew is an American actress.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is best known for her role as Irene Molloy in the 1969 film 'Hello, Dolly!'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Marianne McAndrew was born on November 26, 1942 in Cleveland, Ohio.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She began her acting career in the 1960s.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her performance in 'Hello, Dolly!' earned her a Golden Globe nomination for New Star of the Year.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Marianne McAndrew is an American actress, born on November 26, 1942 in Cleveland, Ohio. She began her acting career in the 1960s and is best known for her role as Irene Molloy in the 1969 film 'Hello, Dolly!'. Her performance in this film was highly acclaimed and earned her a Golden Globe nomination for New Star of the Year."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Chaim Malinowitz",
+            "all-subclaims": [
+                {
+                    "subclaim": "Chaim Malinowitz was a renowned rabbi and scholar.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was best known for his work as the general editor of the ArtScroll Schottenstein Edition of the Talmud.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was born in 1952.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was raised in New York.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz studied at the Rabbi Jacob Joseph School.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz studied at the Mir Yeshiva in Brooklyn.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz moved to Israel later in his life.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz served as the rabbi of Beis Tefillah Yonah Avraham, a synagogue in Ramat Beit Shemesh.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was highly respected for his deep knowledge and understanding of Jewish law and philosophy.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz passed away in November 2019.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Chaim Malinowitz was a renowned rabbi and scholar.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was best known for his work as the general editor of the ArtScroll Schottenstein Edition of the Talmud.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was born in 1952.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz moved to Israel later in his life.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz served as the rabbi of Beis Tefillah Yonah Avraham, a synagogue in Ramat Beit Shemesh.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz was highly respected for his deep knowledge and understanding of Jewish law and philosophy.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chaim Malinowitz passed away in November 2019.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Chaim Malinowitz was a renowned rabbi and scholar, born in 1952, and was highly respected for his deep knowledge and understanding of Jewish law and philosophy. He was best known for his work as the general editor of the ArtScroll Schottenstein Edition of the Talmud. Later in his life, Malinowitz moved to Israel where he served as the rabbi of Beis Tefillah Yonah Avraham, a synagogue in Ramat Beit Shemesh. He passed away in November 2019, leaving behind a significant legacy in the field of Jewish scholarship."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Doug Sheehan",
+            "all-subclaims": [
+                {
+                    "subclaim": "Doug Sheehan is an American actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan is known for his roles in popular television series such as 'General Hospital' and 'Knots Landing'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan was born on April 27, 1949.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan was born in Santa Monica, California.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan began his acting career in the late 1970s.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan gained recognition for his role as Joe Kelly on the soap opera 'General Hospital'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan played the role of Joe Kelly from 1979 to 1982.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan joined the cast of 'Knots Landing' in 1983.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan played the character of Ben Gibson in 'Knots Landing' until 1987.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In addition to his television work, Doug Sheehan has also appeared in several films and stage productions.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Doug Sheehan is an American actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan is known for his roles in popular television series such as 'General Hospital' and 'Knots Landing'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan was born on April 27, 1949.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan was born in Santa Monica, California.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan gained recognition for his role as Joe Kelly on the soap opera 'General Hospital'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Doug Sheehan played the character of Ben Gibson in 'Knots Landing' until 1987.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In addition to his television work, Doug Sheehan has also appeared in several films and stage productions.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Doug Sheehan, born on April 27, 1949, is an American actor hailing from Santa Monica, California. He is best known for his roles in popular television series such as 'General Hospital' and 'Knots Landing'. In 'General Hospital', he gained recognition for his portrayal of the character Joe Kelly. He also played the character of Ben Gibson in 'Knots Landing' until 1987. In addition to his television work, Doug Sheehan has also appeared in several films and stage productions, showcasing his versatile acting skills."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Gerhard Fischer (inventor)",
+            "all-subclaims": [
+                {
+                    "subclaim": "Gerhard Fischer is a renowned inventor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fischer is best known for his significant contributions to the field of metal detection technology.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gerhard Fischer was born in Germany.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fischer immigrated to the United States in the 1930s.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is the founder of Fisher Research Laboratory.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fisher Research Laboratory is one of the oldest and most trusted metal detector manufacturers in the world.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Fischer's work led to the development of the first patented metal detector.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The first patented metal detector was used extensively during World War II.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Fischer's efforts have had a lasting impact on industries ranging from security to archaeology.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Gerhard Fischer is a renowned inventor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fischer is best known for his significant contributions to the field of metal detection technology.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gerhard Fischer was born in Germany.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is the founder of Fisher Research Laboratory.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fischer's work led to the development of the first patented metal detector.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fischer's efforts have had a lasting impact on industries ranging from security to archaeology.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Gerhard Fischer, a renowned inventor, was born in Germany and is best known for his significant contributions to the field of metal detection technology. He is the founder of Fisher Research Laboratory, where his work led to the development of the first patented metal detector. Fischer's efforts have had a lasting impact on various industries, ranging from security to archaeology."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Chief Jones",
+            "all-subclaims": [
+                {
+                    "subclaim": "There are several notable individuals known as Chief Jones.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Without specific information, it's difficult to provide an accurate biography for Chief Jones.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chief Buffalo Hump Jones was a renowned Native American leader in the 19th century.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Chief John Jones has served in various fire departments across the United States.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Chief Marvin Jones is a law enforcement officer with decades of experience.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "More specific details are needed for a more accurate biography of Chief Jones.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "There are several notable individuals known as Chief Jones.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Without specific information, it's difficult to provide an accurate biography for Chief Jones.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More specific details are needed for a more accurate biography of Chief Jones.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "There are several notable individuals known as Chief Jones. However, without specific information, it's difficult to provide an accurate biography for any particular Chief Jones. More specific details such as their full name, place of birth, or their accomplishments are needed for a more accurate biography of Chief Jones."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Focus...",
+            "all-subclaims": [
+                {
+                    "subclaim": "Focus is a Dutch progressive rock band.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Focus was formed in Amsterdam in 1969.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The group is known for its unique blend of rock, jazz, and classical music.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Focus is recognized for its instrumental expertise.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Thijs van Leer is the founder and a keyboardist/flutist for Focus.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jan Akkerman is a notable guitarist for Focus.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Focus gained international recognition with their hits 'Hocus Pocus' and 'Sylvia'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'Moving Waves' and 'Focus III' are albums by Focus.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The band has experienced several lineup changes and periods of inactivity.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite changes and periods of inactivity, Focus continues to perform and record.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Focus maintains a dedicated fan base.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Focus is a Dutch progressive rock band.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Focus was formed in Amsterdam in 1969.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The group is known for its unique blend of rock, jazz, and classical music.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Thijs van Leer is the founder and a keyboardist/flutist for Focus.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Focus gained international recognition with their hits 'Hocus Pocus' and 'Sylvia'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The band has experienced several lineup changes and periods of inactivity.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite changes and periods of inactivity, Focus continues to perform and record.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Focus is a Dutch progressive rock band that was formed in Amsterdam in 1969 by Thijs van Leer, who is the founder and a keyboardist/flutist for the group. The band is known for its unique blend of rock, jazz, and classical music, which has gained them international recognition, particularly with their hits 'Hocus Pocus' and 'Sylvia'. Over the years, the band has experienced several lineup changes and periods of inactivity. Despite these changes and periods of inactivity, Focus continues to perform and record."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Joey D. Vieira",
+            "all-subclaims": [
+                {
+                    "subclaim": "Joey D. Vieira is an American actor and musician.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is best known for his role as Sylvester 'Porky' Brockway on the television series 'Lassie' from 1954 to 1957.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Joey D. Vieira was born on April 8, 1944, in Honolulu, Hawaii.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Vieira began his acting career as a child actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He later changed his stage name to Donald Keeler while performing in the series 'Annette' in 1958.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Apart from acting, Vieira is also a bassist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He has performed with several bands, including The Standells.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Joey D. Vieira has appeared in several films, including 'Erin Brockovich' and 'The Patriot.'",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Joey D. Vieira is an American actor and musician.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Vieira began his acting career as a child actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apart from acting, Vieira is also a bassist.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Joey D. Vieira is an American actor and musician who began his acting career as a child. Apart from his acting career, Vieira is also a talented bassist. His diverse talents have allowed him to make a significant impact in both the acting and music industries."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Taral Hicks",
+            "all-subclaims": [
+                {
+                    "subclaim": "Taral Hicks is an American actress and singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is best known for her role as Jane Williams in the 1993 film 'A Bronx Tale'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Taral Hicks was born on September 21, 1974.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She was born in The Bronx, New York.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hicks began her acting career in the early 1990s.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In addition to acting, Hicks also pursued a career in music.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She signed a deal with Motown Records.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hicks released her debut album, 'This Time,' in 1997.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She took a hiatus from acting and singing in the early 2000s to focus on her family.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Hicks returned to the entertainment industry in 2011.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Since 2011, she has continued to work in both film and music.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Taral Hicks is an American actress and singer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is best known for her role as Jane Williams in the 1993 film 'A Bronx Tale'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Taral Hicks was born on September 21, 1974.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She was born in The Bronx, New York.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In addition to acting, Hicks also pursued a career in music.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hicks released her debut album, 'This Time,' in 1997.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Taral Hicks, born on September 21, 1974, is an American actress and singer from The Bronx, New York. She is best known for her role as Jane Williams in the 1993 film 'A Bronx Tale'. In addition to her acting career, Hicks also pursued a career in music. She released her debut album, 'This Time,' in 1997."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Lees Knowles",
+            "all-subclaims": [
+                {
+                    "subclaim": "Lees Knowles, 1st Baronet, is also known as Sir Lees Knowles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lees Knowles was a British politician, author, and military historian.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lees Knowles was born on August 5, 1857, in Lancashire, England.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was educated at Trinity College, Cambridge.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lees Knowles served as a Conservative Member of Parliament for Salford West from 1885 to 1906.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Lees Knowles served as a Conservative Member of Parliament for Nottingham East from 1910 to 1918.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Lees Knowles was a prominent speaker on military matters.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Lees Knowles wrote several books on military matters.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lees Knowles was made a baronet in 1917 for his contributions to military literature.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Lees Knowles passed away on November 7, 1928.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Lees Knowles was a British politician, author, and military historian.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lees Knowles served as a Conservative Member of Parliament for Salford West from 1885 to 1906.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Lees Knowles was a prominent speaker on military matters.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Lees Knowles wrote several books on military matters.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Lees Knowles was a British politician, author, and military historian. He served as a Conservative Member of Parliament for Salford West from 1885 to 1906, making significant contributions to the political landscape. Knowles was a prominent speaker on military matters, often sharing his expertise and insights. In addition to his political career, he also wrote several books on military matters, further establishing his reputation as a military historian."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Carolina Portesi Peroni",
+            "all-subclaims": [
+                {
+                    "subclaim": "The assistant couldn't find any information on a person named Carolina Portesi Peroni.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The name Carolina Portesi Peroni might have been misspelled.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The person Carolina Portesi Peroni isn't widely recognized or doesn't have a public presence.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The assistant is willing to help find the information if additional details are provided.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Quintus Sosius Senecio",
+            "all-subclaims": [
+                {
+                    "subclaim": "Quintus Sosius Senecio was a prominent Roman senator and military officer during the 2nd century AD.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was a close friend and confidant of the Emperor Hadrian.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emperor Hadrian appointed him as consul twice, first in 99 AD and again in 107 AD.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Senecio was a successful military commander, leading campaigns in Britain and Dacia.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He was known for his literary interests.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Senecio was a patron of the famous Greek philosopher and biographer Plutarch.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Despite his high-ranking positions and influence, little is known about his personal life.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Quintus Sosius Senecio was a prominent Roman senator and military officer during the 2nd century AD.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emperor Hadrian appointed him as consul twice, first in 99 AD and again in 107 AD.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was known for his literary interests.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Quintus Sosius Senecio was a prominent Roman senator and military officer during the 2nd century AD. He was appointed as consul twice by Emperor Hadrian, first in 99 AD and again in 107 AD. In addition to his political and military roles, Senecio was known for his literary interests."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Joeri Adams",
+            "all-subclaims": [
+                {
+                    "subclaim": "Joeri Adams is a Belgian professional cyclist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Joeri Adams was born on 15th June 1989 in Turnhout, Belgium.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He began his professional career in 2010 with the Rabobank Continental Team.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Adams moved to Telenet-Fidea in 2011.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adams has competed in various cyclo-cross and road racing events throughout his career.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite not having any major wins to his name, he has consistently performed well in several national and international competitions.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Joeri Adams is known for his endurance and technical skills on the bike.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Joeri Adams is a Belgian professional cyclist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adams has competed in various cyclo-cross and road racing events throughout his career.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Joeri Adams is a professional cyclist from Belgium who has made a name for himself in the world of cycling. Throughout his career, he has competed in a variety of events, showcasing his versatility and skill. His participation spans across different types of races, including cyclo-cross and road racing events. His dedication and talent have allowed him to compete at a high level in these demanding and competitive fields."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Dominic King",
+            "all-subclaims": [
+                {
+                    "subclaim": "Dominic King is a British radio presenter and journalist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dominic King is best known for his work with BBC Radio Kent.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He began his career in the late 1980s.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Dominic King worked for various local radio stations before joining the BBC in 1997.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "King has become a prominent figure in the broadcasting industry.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Dominic King has hosted a variety of shows and interviewed numerous high-profile guests.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In addition to his radio work, Dominic King has also written for several newspapers and magazines.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Dominic King has established his reputation as a respected journalist.",
+                    "annotation": "U"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "King has become a prominent figure in the broadcasting industry.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "I'm sorry, but I can't provide a bio for Dominic King as the facts provided do not contain any information about an individual by that name."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Vincenzo Tusa",
+            "all-subclaims": [
+                {
+                    "subclaim": "Vincenzo Tusa was an Italian archaeologist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa made significant contributions to the field of underwater archaeology.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa was born in 1920 in Salemi, Sicily.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He studied at the University of Palermo.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa later became the Superintendent of Antiquities for the Sicilian Region.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Tusa is best known for his work in the Egadi Islands.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He discovered numerous shipwrecks and artifacts from the First Punic War in the Egadi Islands.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa played a crucial role in the establishment of the Museum of the Sea in Favignana.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa passed away in 2004.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Tusa left behind a rich legacy in the world of archaeology.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Vincenzo Tusa was an Italian archaeologist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He studied at the University of Palermo.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Vincenzo Tusa later became the Superintendent of Antiquities for the Sicilian Region.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Tusa left behind a rich legacy in the world of archaeology.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Vincenzo Tusa was an esteemed Italian archaeologist who dedicated his life to the study and preservation of antiquities. His academic journey began at the University of Palermo, where he honed his skills and knowledge in archaeology. His expertise and passion led him to become the Superintendent of Antiquities for the Sicilian Region, a role in which he had a significant impact. Tusa's contributions to the field have left a rich legacy in the world of archaeology, making him a respected figure in his field."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Jean Daull\u00e9",
+            "all-subclaims": [
+                {
+                    "subclaim": "Jean Daull\u00e9 was a French engraver.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jean Daull\u00e9 was born in Abbeville in 1703.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He studied under Jean-Baptiste Scotin.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Daull\u00e9 became a member of the French Royal Academy of Painting and Sculpture in 1742.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was known for his exceptional skill in engraving.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Daull\u00e9 specialized in reproductions of famous paintings.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "His works include engravings of pieces by artists such as Van Dyck, Veronese, and Rubens.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He engraved portraits of notable figures of his time, including Louis XV and Madame de Pompadour.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jean Daull\u00e9 passed away in Paris in 1763.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Jean Daull\u00e9 was a French engraver.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jean Daull\u00e9 was born in Abbeville in 1703.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was known for his exceptional skill in engraving.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Daull\u00e9 specialized in reproductions of famous paintings.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jean Daull\u00e9 passed away in Paris in 1763.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Jean Daull\u00e9 was a renowned French engraver, born in Abbeville in 1703. He was celebrated for his exceptional skill in engraving, with a particular specialization in reproducing famous paintings. His work was highly regarded and sought after, demonstrating a unique talent and dedication to his craft. After a lifetime of contributing to the art world, Daull\u00e9 passed away in Paris in 1763."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Richard Burkewood Welbourn",
+            "all-subclaims": [
+                {
+                    "subclaim": "Richard Burkewood Welbourn was a renowned British surgeon.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn made significant contributions to the field of endocrine surgery.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn was born on 24th November 1926.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn studied medicine at St Bartholomew's Hospital Medical College, London.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn is best known for his work in developing the field of thyroid and parathyroid surgery.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn established the first endocrine surgical unit in the UK at the Bristol Royal Infirmary.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn played a key role in founding the British Association of Endocrine Surgeons.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn played a key role in founding the International Association of Endocrine Surgeons.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn passed away on 30th October 2019.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Richard Burkewood Welbourn was a renowned British surgeon.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn made significant contributions to the field of endocrine surgery.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn is best known for his work in developing the field of thyroid and parathyroid surgery.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Richard Burkewood Welbourn played a key role in founding the British Association of Endocrine Surgeons.",
+                    "annotation": "N"
+                }
+            ],
+            "new-output": "Richard Burkewood Welbourn was a renowned British surgeon who made significant contributions to the field of endocrine surgery. He is best known for his work in developing the field of thyroid and parathyroid surgery, which has had a profound impact on the medical community. In addition to his surgical advancements, Welbourn also played a key role in founding the British Association of Endocrine Surgeons, further solidifying his influence and legacy in the field of endocrine surgery."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Damir Memovi\u0107",
+            "all-subclaims": [
+                {
+                    "subclaim": "There is no information found on a person named Damir Memovi\u0107.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The name Damir Memovi\u0107 may have been misspelled.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The person in question, Damir Memovi\u0107, may not be a public figure or widely recognized.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The assistant is willing to help further if more details or context are provided.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Mar\u00eda Elena Medina-Mora Icaza",
+            "all-subclaims": [
+                {
+                    "subclaim": "Mar\u00eda Elena Medina-Mora Icaza is a Mexican psychologist and researcher.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She specializes in the field of epidemiology and mental health.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Medina-Mora is the Director of the National Institute of Psychiatry Ram\u00f3n de la Fuente Mu\u00f1iz in Mexico City.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She has made significant contributions to the understanding of substance abuse and mental disorders, particularly in the Mexican population.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Medina-Mora has published numerous articles in international scientific journals.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She has been recognized for her work with several awards.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is a member of the National System of Researchers in Mexico.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Medina-Mora is a member of the National Academy of Medicine.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "She specializes in the field of epidemiology and mental health.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She has made significant contributions to the understanding of substance abuse and mental disorders, particularly in the Mexican population.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "She has been recognized for her work with several awards.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Medina-Mora is a member of the National Academy of Medicine.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Mar\u00eda Elena Medina-Mora Icaza is a renowned professional who specializes in the field of epidemiology and mental health. She has made significant contributions to the understanding of substance abuse and mental disorders, particularly in the Mexican population. Her groundbreaking work has earned her several awards, a testament to her dedication and expertise in her field. In addition to her research and contributions, Medina-Mora is a member of the prestigious National Academy of Medicine."
+        },
+        {
+            "prompt": "Tell me a paragraph bio of Hesham Nazih",
+            "all-subclaims": [
+                {
+                    "subclaim": "Hesham Nazih is a renowned Egyptian music composer and producer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hesham Nazih is best known for his work in the Arabic music industry.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hesham Nazih has composed music for many popular Arabic singers, including Amr Diab, Sherine, and Tamer Hosny.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Hesham Nazih's work has been recognized with several awards.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hesham Nazih is considered one of the leading figures in contemporary Arabic music.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Hesham Nazih's compositions are known for their unique blend of traditional Arabic melodies with modern pop elements.",
+                    "annotation": "U"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Hesham Nazih is a renowned Egyptian music composer and producer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hesham Nazih is best known for his work in the Arabic music industry.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hesham Nazih is considered one of the leading figures in contemporary Arabic music.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Hesham Nazih is a renowned Egyptian music composer and producer, best known for his significant contributions to the Arabic music industry. He is considered one of the leading figures in contemporary Arabic music, demonstrating a profound influence and shaping the industry with his unique compositions and productions. His work has not only gained him recognition but also positioned him as a pivotal figure in the music scene."
+        },
+        {
+            "prompt": "Luis Guillermo Rivera\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Luis Guillermo Rivera is a professional athlete from Colombia.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera specializes in high jump.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera was born on March 20, 1989.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera was born in Apartad\u00f3, Colombia.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera has represented Colombia in several international competitions.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera has competed in the World Championships in Athletics.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera has competed in the Pan American Games.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera won the gold medal in the high jump at the 2013 South American Championships in Athletics.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera's personal best in the high jump is 2.31 meters.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Luis Guillermo Rivera achieved his personal best in the high jump in 2013.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "Desmond Luke\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Without more context, it's unclear who Desmond Luke might be.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Desmond Luke could be a personal name.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Desmond Luke could be a character in a book or movie.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Desmond Luke could be something else entirely.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More information is needed to identify who or what Desmond Luke is.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Without more context, it's unclear who Desmond Luke might be.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Desmond Luke could be a personal name.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More information is needed to identify who or what Desmond Luke is.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Desmond Luke could potentially be a personal name. However, without more context, it's unclear who Desmond Luke might be. More information is needed to identify who or what Desmond Luke is."
+        },
+        {
+            "prompt": "Miguel D\u00edaz (baseball)\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Miguel D\u00edaz is a professional baseball player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz has played as a pitcher in Major League Baseball (MLB).",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was born on November 28, 1994.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was born in San Cristobal, Dominican Republic.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was signed by the Milwaukee Brewers as an international free agent in 2011.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz made his MLB debut with the San Diego Padres in 2017.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz has also played for the Minnesota Twins.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Miguel D\u00edaz is a professional baseball player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz has played as a pitcher in Major League Baseball (MLB).",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was born on November 28, 1994.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz was born in San Cristobal, Dominican Republic.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Miguel D\u00edaz made his MLB debut with the San Diego Padres in 2017.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Miguel D\u00edaz is a professional baseball player, born on November 28, 1994 in San Cristobal, Dominican Republic. He has played as a pitcher in Major League Baseball (MLB). D\u00edaz made his MLB debut with the San Diego Padres in 2017."
+        },
+        {
+            "prompt": "Roxana D\u00edaz (athlete)\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Roxana D\u00edaz is a Venezuelan athlete.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She specializes in the 400 meters hurdles.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "D\u00edaz has represented Venezuela in various international competitions.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has participated in the World Championships.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She has participated in the Pan American Games.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "D\u00edaz is known for her speed, agility, and determination on the track.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "She has won several medals throughout her career.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Roxana D\u00edaz is one of the most successful athletes in Venezuela.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "D\u00edaz has represented Venezuela in various international competitions.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "She has participated in the World Championships.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Roxana D\u00edaz is an athlete who has represented Venezuela in various international competitions. She has also participated in the World Championships."
+        },
+        {
+            "prompt": "Fernando (footballer, born 1984)\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Fernando Francisco Reges Mouta, known as Fernando, is a Brazilian professional footballer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fernando was born on July 25, 1984.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando plays as a defensive midfielder.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando started his career with Vila Nova.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando moved to Portugal where he played for Estrela da Amadora and FC Porto.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando moved to Manchester City in England.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando later moved to Galatasaray in Turkey.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Despite being born in Brazil, Fernando represented Portugal internationally.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Fernando gained Portuguese citizenship in 2013.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Fernando Francisco Reges Mouta, known as Fernando, is a Brazilian professional footballer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fernando plays as a defensive midfielder.",
+                    "annotation": "N"
+                }
+            ],
+            "new-output": "Fernando Francisco Reges Mouta, known as Fernando, is a Brazilian professional footballer born in 1984. He plays as a defensive midfielder."
+        },
+        {
+            "prompt": "Gerardo Fernandez Fe\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "You may be referring to Gerardo Fern\u00e1ndez Fe.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gerardo Fern\u00e1ndez Fe is a Cuban writer and journalist.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He has written several books and articles on Cuban culture and history.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Gerardo Fern\u00e1ndez Fe is known for his work as a literary critic and essayist.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "His work often explores themes of identity, exile, and the Cuban diaspora.",
+                    "annotation": "U"
+                }
+            ],
+            "accepted-subclaims": [],
+            "new-output": "Abstain."
+        },
+        {
+            "prompt": "Augusto Mart\u00ednez S\u00e1nchez\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide details on Augusto Mart\u00ednez S\u00e1nchez.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The name Augusto Mart\u00ednez S\u00e1nchez is quite common in Spanish-speaking countries.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Augusto Mart\u00ednez S\u00e1nchez could be a professional in any number of fields.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Augusto Mart\u00ednez S\u00e1nchez could be a private individual.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More details like his profession or the country he is from could help in providing more information about Augusto Mart\u00ednez S\u00e1nchez.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide details on Augusto Mart\u00ednez S\u00e1nchez.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The name Augusto Mart\u00ednez S\u00e1nchez is quite common in Spanish-speaking countries.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Augusto Mart\u00ednez S\u00e1nchez could be a professional in any number of fields.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Augusto Mart\u00ednez S\u00e1nchez could be a private individual.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More details like his profession or the country he is from could help in providing more information about Augusto Mart\u00ednez S\u00e1nchez.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Augusto Mart\u00ednez S\u00e1nchez is a name that is quite common in Spanish-speaking countries. Without more specific information, such as his profession or the country he is from, it's difficult to provide details on him. He could be a professional in any number of fields or he could be a private individual."
+        },
+        {
+            "prompt": "Sharad Kumar (athlete)\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Sharad Kumar is an Indian para-athlete who competes in high jump events.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar was born on March 1, 1992, in Bihar, India.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar was diagnosed with polio at a young age, which affected his left leg.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Despite his condition, Sharad Kumar pursued his passion for sports and began training as a high jumper.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar has represented India in several international competitions.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar has won numerous medals in his career.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar won a gold medal at the 2014 Asian Para Games in Incheon, South Korea.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar won a silver medal at the 2018 Asian Para Games in Jakarta, Indonesia.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar won a bronze medal at the 2017 World Para Athletics Championships in London.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In 2021, Sharad Kumar won a bronze medal in the men's high jump T42 category at the Tokyo Paralympics.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The bronze medal at the Tokyo Paralympics was Sharad Kumar's first Paralympic medal.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar's personal best in high jump is 1.90 meters.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Sharad Kumar achieved his personal best in high jump at the 2017 World Para Athletics Championships.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Sharad Kumar is an Indian para-athlete who competes in high jump events.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar was born on March 1, 1992, in Bihar, India.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite his condition, Sharad Kumar pursued his passion for sports and began training as a high jumper.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar has represented India in several international competitions.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharad Kumar has won numerous medals in his career.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In 2021, Sharad Kumar won a bronze medal in the men's high jump T42 category at the Tokyo Paralympics.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Sharad Kumar is an Indian para-athlete who was born on March 1, 1992, in Bihar, India. He competes in high jump events and despite his condition, he pursued his passion for sports and began training as a high jumper. Sharad Kumar has represented India in several international competitions and has won numerous medals in his career. Most notably, in 2021, he won a bronze medal in the men's high jump T42 category at the Tokyo Paralympics."
+        },
+        {
+            "prompt": "Ko Itakura\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Ko Itakura is a professional footballer from Japan.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He plays as a midfielder for the Japanese national team.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Ko Itakura plays for the club FC Groningen.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "He is on loan from Manchester City.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Ko Itakura was born on January 27, 1997.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was born in Yokohama, Japan.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Before joining Manchester City in 2019, he played for Kawasaki Frontale.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He also played for Hokkaido Consadole Sapporo in the J1 League.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The J1 League is the top tier of Japanese football.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Ko Itakura is a professional footballer from Japan.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He plays as a midfielder for the Japanese national team.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is on loan from Manchester City.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Ko Itakura was born on January 27, 1997.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Before joining Manchester City in 2019, he played for Kawasaki Frontale.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Ko Itakura is a professional footballer from Japan, born on January 27, 1997. He plays as a midfielder for the Japanese national team. Currently, he is on loan from Manchester City. Before joining Manchester City in 2019, he played for Kawasaki Frontale."
+        },
+        {
+            "prompt": "Besant Ravi\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Besant Ravi is an Indian film actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Besant Ravi is a stunt coordinator.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Besant Ravi primarily works in the Tamil film industry.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He has been a part of several successful films.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Besant Ravi is known for his action sequences.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Ravi has acted in a few films.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Besant Ravi has showcased his versatility in the film industry.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "He has been in the film industry for several years.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Besant Ravi has made a significant contribution to Tamil cinema.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Besant Ravi is a stunt coordinator.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Besant Ravi primarily works in the Tamil film industry.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He has been a part of several successful films.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Besant Ravi is known for his action sequences.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Besant Ravi has showcased his versatility in the film industry.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "He has been in the film industry for several years.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Besant Ravi has made a significant contribution to Tamil cinema.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Besant Ravi is a stunt coordinator who primarily works in the Tamil film industry. He has been a part of several successful films and is known for his action sequences. Ravi has showcased his versatility in the film industry and has been in the industry for several years. His work has made a significant contribution to Tamil cinema."
+        },
+        {
+            "prompt": "Thomas Houghton (rugby league)\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Thomas Houghton is a professional rugby league footballer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He plays as a winger for the Leigh Centurions.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The Leigh Centurions participate in the Betfred Championship.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Thomas Houghton has previously played for the St Helens RFC.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "St Helens RFC is a team in the Super League.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Houghton is known for his speed and agility on the field.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Thomas Houghton is a professional rugby league footballer.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Thomas Houghton is a professional rugby league footballer."
+        },
+        {
+            "prompt": "Katsunosuke Hori\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Katsunosuke Hori is a Japanese actor and voice actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori was born on November 28, 1941.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori was born in Tokyo, Japan.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori is known for his work in anime and video games.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori has roles in 'Neon Genesis Evangelion', 'Ghost in the Shell: Stand Alone Complex', and 'Final Fantasy VII: Advent Children'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori is known for his dubbing roles in foreign films.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori voiced Gandalf in the Japanese version of 'The Lord of the Rings' trilogy.",
+                    "annotation": "U"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Katsunosuke Hori is a Japanese actor and voice actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Katsunosuke Hori is known for his work in anime and video games.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Katsunosuke Hori is a Japanese actor and voice actor. He is known for his work in anime and video games."
+        },
+        {
+            "prompt": "Ra Jong-yil\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Ra Jong-yil is a South Korean diplomat and academic.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He served as the South Korean ambassador to the United Kingdom.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He served as the South Korean ambassador to Japan.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He also served as the deputy director of the National Intelligence Service.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "As an academic, he has taught at various universities.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He has written several books on North Korea and international relations.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Ra Jong-yil is a South Korean diplomat and academic.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He served as the South Korean ambassador to the United Kingdom.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He served as the South Korean ambassador to Japan.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He has written several books on North Korea and international relations.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Ra Jong-yil is a South Korean diplomat and academic who has served as the South Korean ambassador to both the United Kingdom and Japan. In addition to his diplomatic work, he has written several books on North Korea and international relations."
+        },
+        {
+            "prompt": "Song Kang\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Song Kang is a South Korean actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang gained international fame for his role in the Netflix series 'Love Alarm'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang was born on April 23, 1994 in Suwon, South Korea.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang made his acting debut in 2017 in the television series 'The Liar and His Lover'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'When the Devil Calls Your Name'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'Sweet Home'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'Navillera'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang is known for his good looks.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Song Kang is known for his acting skills.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Song Kang is known for his charming personality.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Song Kang is a South Korean actor.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang gained international fame for his role in the Netflix series 'Love Alarm'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang made his acting debut in 2017 in the television series 'The Liar and His Lover'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'When the Devil Calls Your Name'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Song Kang has appeared in the TV show 'Sweet Home'.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Song Kang is a South Korean actor who gained international fame for his role in the Netflix series 'Love Alarm'. He made his acting debut in 2017 in the television series 'The Liar and His Lover'. In addition to 'Love Alarm', Song Kang has appeared in the TV shows 'When the Devil Calls Your Name' and 'Sweet Home'."
+        },
+        {
+            "prompt": "Rin Iwanaga\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "The assistant couldn't find any information on a person named Rin Iwanaga.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The name Rin Iwanaga might have been misspelled.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The person Rin Iwanaga isn't widely known.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Rin Iwanaga could be a private individual.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "It would be inappropriate to share personal details about a private individual.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Rin Iwanaga could be a private individual.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Rin Iwanaga could be a private individual."
+        },
+        {
+            "prompt": "Keita Kadokura\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "There isn't enough information available on a person named Keita Kadokura.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "It's possible that the name Keita Kadokura may have been misspelled.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The person named Keita Kadokura isn't widely known.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "If Keita Kadokura is a private individual, it would be inappropriate to share personal details about them.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "There isn't enough information available on a person named Keita Kadokura.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The person named Keita Kadokura isn't widely known.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "If Keita Kadokura is a private individual, it would be inappropriate to share personal details about them.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Keita Kadokura isn't widely known and there isn't enough information available on them. If Keita Kadokura is a private individual, it would be inappropriate to share personal details about them."
+        },
+        {
+            "prompt": "Lily Branscombe\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "You are referring to a person named Lily Branscombe.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide any details about Lily Branscombe.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "There are several people with the name Lily Branscombe listed online.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lily Branscombe is a name found on social media and professional networking sites.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "If you're referring to a specific individual in a public role, such as an author, actor, or other public figure, more information is needed.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide any details about Lily Branscombe.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "If you're referring to a specific individual in a public role, such as an author, actor, or other public figure, more information is needed.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Without more specific information, it's difficult to provide any details about Lily Branscombe. If you're referring to a specific individual in a public role, such as an author, actor, or other public figure, more information is needed."
+        },
+        {
+            "prompt": "Luis N. Rivera-Pag\u00e1n\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Luis N. Rivera-Pag\u00e1n is a Puerto Rican theologian and author.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was the first Latino to be tenured as a professor at Princeton Theological Seminary.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He taught for many years at Princeton Theological Seminary.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "His work focuses on the intersection of religion, colonialism, and social justice.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "His work is particularly focused in the context of Latin America and the Caribbean.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "He has written several books.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is the author of the book 'A Violent Evangelism: The Political and Religious Conquest of the Americas'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is the author of the book 'Essays from the Margins'.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Luis N. Rivera-Pag\u00e1n is a Puerto Rican theologian and author.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He taught for many years at Princeton Theological Seminary.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "His work focuses on the intersection of religion, colonialism, and social justice.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He has written several books.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Luis N. Rivera-Pag\u00e1n is a Puerto Rican theologian and author who has written several books. His work primarily focuses on the intersection of religion, colonialism, and social justice. He has spent many years teaching at Princeton Theological Seminary."
+        },
+        {
+            "prompt": "Jesse Foppert\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Jesse Foppert is a former professional baseball player from the United States.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was born on July 10, 1980 in Reading, Pennsylvania.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Foppert was a pitcher in Major League Baseball (MLB).",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He played for the San Francisco Giants and the Seattle Mariners.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was considered one of the top pitching prospects in baseball in 2003.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "His career was derailed by injuries.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "After retiring from professional baseball, Foppert became a coach.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Jesse Foppert is a former professional baseball player from the United States.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He was born on July 10, 1980 in Reading, Pennsylvania.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Foppert was a pitcher in Major League Baseball (MLB).",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He played for the San Francisco Giants and the Seattle Mariners.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "His career was derailed by injuries.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "After retiring from professional baseball, Foppert became a coach.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Jesse Foppert is a former professional baseball player from the United States, born on July 10, 1980 in Reading, Pennsylvania. He was a pitcher in Major League Baseball (MLB), playing for the San Francisco Giants and the Seattle Mariners. Unfortunately, his career was derailed by injuries. After retiring from professional baseball, Foppert became a coach."
+        },
+        {
+            "prompt": "Mike Trivisonno\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Mike Trivisonno is a popular radio host.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Mike Trivisonno is based in Cleveland, Ohio.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is best known for his show 'The Mike Trivisonno Show'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'The Mike Trivisonno Show' airs on WTAM 1100.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Mike Trivisonno has been with WTAM 1100 since 1987.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "His show is one of the highest-rated in the Cleveland area.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Mike Trivisonno is often referred to as 'Triv'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is known for his outspoken and often controversial opinions.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Mike Trivisonno discusses a wide range of topics, including politics, sports, and current events.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Mike Trivisonno is a popular radio host.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Mike Trivisonno is based in Cleveland, Ohio.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He is best known for his show 'The Mike Trivisonno Show'.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'The Mike Trivisonno Show' airs on WTAM 1100.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Mike Trivisonno discusses a wide range of topics, including politics, sports, and current events.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Mike Trivisonno is a popular radio host based in Cleveland, Ohio. He is best known for his show 'The Mike Trivisonno Show' which airs on WTAM 1100. On his show, Mike Trivisonno discusses a wide range of topics, including politics, sports, and current events."
+        },
+        {
+            "prompt": "Zelma Wilson\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Zelma Wilson was born in 1926.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zelma Wilson died in 1996.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zelma Wilson was an American architect.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zelma Wilson was known for her work in the field of sustainable design.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zelma Wilson was one of the first women to establish her own architectural firm in California.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zelma Wilson was a pioneer in the use of solar energy in architecture.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zelma Wilson's designs often incorporated natural materials.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zelma Wilson's designs were designed to blend in with their surroundings.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zelma Wilson designed the Ojai City Hall.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zelma Wilson designed the Ventura County Government Center.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zelma Wilson was a dedicated advocate for women in architecture.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Zelma Wilson served as a mentor to many young architects.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Zelma Wilson was an American architect.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Zelma Wilson was an American architect."
+        },
+        {
+            "prompt": "Michael Valpy\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Michael Valpy is a Canadian journalist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is an author.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is a lecturer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy was born on July 30, 1942.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Michael Valpy was born in Toronto, Ontario.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is best known for his work as a senior writer for The Globe and Mail.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Globe and Mail is a leading Canadian newspaper.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy covered both national and international news for The Globe and Mail.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy has written several books on Canadian politics and history.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy has taught journalism at several universities.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is a three-time nominee for the Governor General's Award.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "The Governor General's Award is Canada's top literary honor.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Michael Valpy is a Canadian journalist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is an author.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is a lecturer.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy is best known for his work as a senior writer for The Globe and Mail.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Globe and Mail is a leading Canadian newspaper.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy covered both national and international news for The Globe and Mail.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy has written several books on Canadian politics and history.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michael Valpy has taught journalism at several universities.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Michael Valpy is a Canadian journalist, author, and lecturer. He is best known for his work as a senior writer for The Globe and Mail, a leading Canadian newspaper. In his career, Valpy covered both national and international news for the newspaper. In addition to his journalism career, he has written several books on Canadian politics and history. Valpy has also taught journalism at several universities."
+        },
+        {
+            "prompt": "Prince Rivers\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Prince Rivers was an African-American slave who gained his freedom and became a Union soldier and politician during and after the American Civil War.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Prince Rivers was born into slavery in South Carolina around 1824.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rivers was a skilled blacksmith and was hired out by his master, earning enough money to buy his freedom in 1850.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "During the Civil War, Rivers joined the Union Army and quickly rose to the rank of sergeant in the 1st South Carolina Volunteers, one of the first African-American regiments.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rivers was known for his leadership skills and courage in battle.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "After the war, Rivers became involved in politics.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "He served as a delegate to the South Carolina Constitutional Convention in 1868 and was elected to the South Carolina House of Representatives, where he served from 1868 to 1874.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rivers was a strong advocate for civil rights and education for African Americans.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Despite his accomplishments, Rivers faced significant racial discrimination and violence.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "He was attacked by the Ku Klux Klan and other white supremacist groups.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "In 1877, Rivers was forced to flee South Carolina due to threats against his life.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He died in obscurity in Florida in 1887.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Prince Rivers was an African-American slave who gained his freedom and became a Union soldier and politician during and after the American Civil War.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "During the Civil War, Rivers joined the Union Army and quickly rose to the rank of sergeant in the 1st South Carolina Volunteers, one of the first African-American regiments.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "After the war, Rivers became involved in politics.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Prince Rivers was an African-American slave who gained his freedom and became a Union soldier during the American Civil War. He joined the Union Army and quickly rose to the rank of sergeant in the 1st South Carolina Volunteers, one of the first African-American regiments. After the war, Rivers transitioned into politics."
+        },
+        {
+            "prompt": "John Estes\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Sleepy John Estes was an American blues guitarist, songwriter and vocalist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sleepy John Estes was born in 1899 and died in 1977.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "John Adam Estes was an American politician.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Adam Estes served as a member of the Texas House of Representatives.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Adam Estes was born in 1919 and died in 2001.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John Estes is an American football center.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "John Estes was born in 1986.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John C. Estes is an American screenwriter.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "John C. Estes is known for his work on films like 'Mean Creek' and 'The Details'.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Without more specific information, it's hard to provide details on the correct John Estes.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Sleepy John Estes was an American blues guitarist, songwriter and vocalist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sleepy John Estes was born in 1899 and died in 1977.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Sleepy John Estes was an American blues guitarist, songwriter and vocalist. He was born in 1899 and died in 1977."
+        },
+        {
+            "prompt": "Eric Hacker\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Eric Hacker is a professional baseball player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker is from Texas, USA.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker was born on March 26, 1983.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker is a right-handed pitcher.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for several Major League Baseball (MLB) teams.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the New York Yankees.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the Pittsburgh Pirates.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the Minnesota Twins.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played in the Korean Baseball Organization (KBO) for the NC Dinos.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite his last name, there is no known record of Eric Hacker being involved in computer hacking.",
+                    "annotation": "Y"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Eric Hacker is a professional baseball player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker is from Texas, USA.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker was born on March 26, 1983.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker is a right-handed pitcher.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for several Major League Baseball (MLB) teams.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eric Hacker has played for the Pittsburgh Pirates.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Eric Hacker is a professional baseball player who was born on March 26, 1983, in Texas, USA. He is a right-handed pitcher and has played for several Major League Baseball (MLB) teams, including the Pittsburgh Pirates."
+        },
+        {
+            "prompt": "Alma Katsu\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Alma Katsu is an American writer of adult fiction.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her work spans a range of genres, including horror, historical, and speculative fiction.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is best known for her debut novel, 'The Taker.'",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "'The Taker' was published in 2011.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'The Taker' was named one of the top ten debut novels of the year by Booklist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Katsu has worked for several U.S. intelligence agencies.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She brings her experience from working in U.S. intelligence agencies to bear in her writing.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Her writing particularly depicts psychological suspense.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Alma Katsu is an American writer of adult fiction.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her work spans a range of genres, including horror, historical, and speculative fiction.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "She is best known for her debut novel, 'The Taker.'",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Katsu has worked for several U.S. intelligence agencies.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Alma Katsu is an American writer of adult fiction, known for her work across a range of genres. These include horror, historical, and speculative fiction. She is best known for her debut novel, 'The Taker.' In addition to her writing career, Katsu has also worked for several U.S. intelligence agencies."
+        },
+        {
+            "prompt": "Carlos Alfonso\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "There could be several individuals named Carlos Alfonso.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Carlos Alfonso is a common name in Spanish-speaking countries.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide details about individuals named Carlos Alfonso.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Some notable people named Carlos Alfonso include Carlos Alfonso (musician), a Cuban musician.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Carlos Alfonso (musician) is a member of the band S\u00edntesis.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Another notable person named Carlos Alfonso is Carlos Alfonso (baseball), a former professional baseball player.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Carlos Alfonso (baseball) is from the Dominican Republic.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "More details are needed for more specific information about individuals named Carlos Alfonso.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "There could be several individuals named Carlos Alfonso.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Without more specific information, it's difficult to provide details about individuals named Carlos Alfonso.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Some notable people named Carlos Alfonso include Carlos Alfonso (musician), a Cuban musician.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More details are needed for more specific information about individuals named Carlos Alfonso.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "There could be several individuals named Carlos Alfonso. Without more specific information, it's difficult to provide details about these individuals. Some notable people named Carlos Alfonso include Carlos Alfonso, a Cuban musician. More details are needed for more specific information about individuals named Carlos Alfonso."
+        },
+        {
+            "prompt": "Rennie Fritchie, Baroness Fritchie\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "Rennie Fritchie, Baroness Fritchie, DBE was born in 1942.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie is a British public servant.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie is a crossbench member of the House of Lords.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie has held a number of high-profile roles in public service.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie served as the Commissioner for Public Appointments in the United Kingdom from 1999 to 2005.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie was the Chair of Nominet UK, the .uk domain name registry, from 2005 to 2010.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "In 2005, Rennie Fritchie was made a life peer as Baroness Fritchie, of Gloucester in the County of Gloucestershire.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie has served on the boards of several other organizations, including the BBC and the Prince's Trust.",
+                    "annotation": "N"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Rennie Fritchie, Baroness Fritchie, DBE was born in 1942.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie is a British public servant.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Rennie Fritchie is a crossbench member of the House of Lords.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie has held a number of high-profile roles in public service.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rennie Fritchie served as the Commissioner for Public Appointments in the United Kingdom from 1999 to 2005.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In 2005, Rennie Fritchie was made a life peer as Baroness Fritchie, of Gloucester in the County of Gloucestershire.",
+                    "annotation": "Y"
+                }
+            ],
+            "new-output": "Rennie Fritchie, Baroness Fritchie, DBE, is a British public servant who was born in 1942. She has held a number of high-profile roles in public service, including serving as the Commissioner for Public Appointments in the United Kingdom from 1999 to 2005. In 2005, she was made a life peer as Baroness Fritchie, of Gloucester in the County of Gloucestershire. She is also a crossbench member of the House of Lords."
+        },
+        {
+            "prompt": "Daniel Charles\n",
+            "all-subclaims": [
+                {
+                    "subclaim": "There could be many people named Daniel Charles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Daniel Charles is a common name.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Without more specific information, it's impossible to provide details about a specific individual named Daniel Charles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The name Daniel Charles could refer to anyone from a private individual to a professional in any number of fields.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More context is needed to provide details about a specific individual named Daniel Charles.",
+                    "annotation": "S"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "There could be many people named Daniel Charles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Daniel Charles is a common name.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Without more specific information, it's impossible to provide details about a specific individual named Daniel Charles.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The name Daniel Charles could refer to anyone from a private individual to a professional in any number of fields.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "More context is needed to provide details about a specific individual named Daniel Charles.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Daniel Charles is a common name and there could be many people named Daniel Charles. The name could refer to anyone from a private individual to a professional in any number of fields. Without more specific information or context, it's impossible to provide details about a specific individual named Daniel Charles."
+        },
+        {
+            "prompt": "Zamfir Arbore",
+            "all-subclaims": [
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was born in 1848.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore died in 1933.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a Romanian political activist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a historian.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was from Bessarabia.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore spent much of his life in exile.",
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a member of the National Liberal Party.",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore campaigned for the union of his native region with the Kingdom of Romania.",
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a prominent opponent of Russian and Soviet policies.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore specialized in the history of the Moldavia and Wallachia during the Middle Ages.",
+                    "annotation": "U"
+                }
+            ],
+            "accepted-subclaims": [
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was born in 1848.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore died in 1933.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was a Romanian political activist.",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zamfir Ralli-Arbore was from Bessarabia.",
+                    "annotation": "S"
+                }
+            ],
+            "new-output": "Zamfir Ralli-Arbore, born in 1848, was a Romanian political activist from Bessarabia. He passed away in 1933."
+        }
+    ]
+}

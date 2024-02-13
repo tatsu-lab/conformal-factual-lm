@@ -1,0 +1,1774 @@
+{
+    "data": [
+        {
+            "prompt": "when is the last episode of season 8 of the walking dead\n",
+            "original-output": "The last episode of season 8 of The Walking Dead aired on April 15, 2018.",
+            "claims": [
+                {
+                    "subclaim": "The Walking Dead has at least 8 seasons.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The last episode of season 8 of The Walking Dead aired.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The last episode of season 8 of The Walking Dead aired on April 15, 2018.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "in greek mythology who was the goddess of spring growth\n",
+            "original-output": "The goddess of spring growth in Greek mythology was Persephone. She was also the queen of the underworld as she was abducted by Hades, the god of the underworld. Her return to the surface each year was believed to symbolize the rebirth of plants and the arrival of spring.",
+            "claims": [
+                {
+                    "subclaim": "The goddess of spring growth in Greek mythology was Persephone.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Persephone was also the queen of the underworld.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Persephone was abducted by Hades, the god of the underworld.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her return to the surface each year was believed to symbolize the rebirth of plants.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Her return to the surface each year was believed to symbolize the arrival of spring.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "benefits of colonial life for single celled organisms\n",
+            "original-output": "1. Protection: Living in colonies can provide single-celled organisms with protection from predators and harsh environmental conditions. The outer cells of the colony can act as a barrier, shielding the inner cells.\n\n2. Nutrient Availability: In a colony, nutrients can be shared among the cells. This can be especially beneficial in environments where nutrients are scarce.\n\n3. Increased Survival Rate: The chances of survival can be higher in a colony because if one cell dies, others can continue to live and reproduce. This is particularly important in harsh environments where the death rate can be high.\n\n4. Specialization: In some colonies, cells can specialize in different tasks, such as reproduction, nutrient absorption, or defense. This can increase the efficiency of the colony as a whole.\n\n5. Genetic Diversity: Colonies can contain a high level of genetic diversity, which can increase the adaptability of the colony to changing environmental conditions.\n\n6. Quorum Sensing: Some single-celled organisms in colonies can communicate with each other through a process called quorum sensing. This allows them to coordinate their behavior and respond to changes in their environment in a collective way.\n\n7. Biofilm Formation: Many single-celled organisms form biofilms, which are essentially colonies attached to a surface. Biofilms can provide protection from antibiotics and other threats, and can also help the cells to capture and share nutrients.",
+            "claims": [
+                {
+                    "subclaim": "Living in colonies can provide single-celled organisms with protection from predators and harsh environmental conditions.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The outer cells of the colony can act as a barrier, shielding the inner cells.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In a colony, nutrients can be shared among the cells.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sharing nutrients can be especially beneficial in environments where nutrients are scarce.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The chances of survival can be higher in a colony because if one cell dies, others can continue to live and reproduce.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "High death rates in harsh environments make the survival of a colony particularly important.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In some colonies, cells can specialize in different tasks, such as reproduction, nutrient absorption, or defense.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Cell specialization can increase the efficiency of the colony as a whole.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Colonies can contain a high level of genetic diversity.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "High genetic diversity can increase the adaptability of the colony to changing environmental conditions.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Some single-celled organisms in colonies can communicate with each other through a process called quorum sensing.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Quorum sensing allows single-celled organisms to coordinate their behavior and respond to changes in their environment in a collective way.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Many single-celled organisms form biofilms, which are essentially colonies attached to a surface.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Biofilms can provide protection from antibiotics and other threats.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Biofilms can also help the cells to capture and share nutrients.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "how many season of the man in the high castle\n",
+            "original-output": "The Man in the High Castle has 4 seasons.",
+            "claims": [
+                {
+                    "subclaim": "The Man in the High Castle is a television series.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Man in the High Castle has 4 seasons.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who was the first ministry head of state in nigeria\n",
+            "original-output": "The first Prime Minister of Nigeria was Sir Abubakar Tafawa Balewa, serving from 1957 until 1966.",
+            "claims": [
+                {
+                    "subclaim": "The first Prime Minister of Nigeria was Sir Abubakar Tafawa Balewa.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sir Abubakar Tafawa Balewa served as Prime Minister of Nigeria from 1957 until 1966.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "how many nominations does game of thrones have\n",
+            "original-output": "As of 2021, Game of Thrones has received 161 Emmy nominations.",
+            "claims": [
+                {
+                    "subclaim": "As of 2021, Game of Thrones has received Emmy nominations.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Game of Thrones has received 161 Emmy nominations.",
+                    "gpt-score": 0.8,
+                    "annotation": "N"
+                }
+            ]
+        },
+        {
+            "prompt": "what is the name of the most important jewish text\n",
+            "original-output": "The Torah",
+            "claims": [
+                {
+                    "subclaim": "The Torah is a religious text.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Torah is significant in Judaism.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "until we meet again filipino soap episode 10\n",
+            "original-output": "\"Until We Meet Again\" is a popular Filipino soap opera. However, I'm sorry, but I can't provide a summary for episode 10 as the details for specific episodes of this show are not readily available online. It's best to watch the series through a legitimate streaming service or on the network it originally aired on.",
+            "claims": [
+                {
+                    "subclaim": "\"Until We Meet Again\" is a popular Filipino soap opera.",
+                    "gpt-score": 0.5,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The assistant cannot provide a summary for episode 10 of \"Until We Meet Again\".",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Details for specific episodes of \"Until We Meet Again\" are not readily available online.",
+                    "gpt-score": 0.5,
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "It's recommended to watch the series through a legitimate streaming service or on the network it originally aired on.",
+                    "gpt-score": 1,
+                    "annotation": "S"
+                }
+            ]
+        },
+        {
+            "prompt": "what is the name of spain's most famous soccer team\n",
+            "original-output": "Real Madrid and FC Barcelona are the most famous soccer teams in Spain.",
+            "claims": [
+                {
+                    "subclaim": "Real Madrid is a soccer team in Spain.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "FC Barcelona is a soccer team in Spain.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Real Madrid is one of the most famous soccer teams in Spain.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "FC Barcelona is one of the most famous soccer teams in Spain.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "when was the first robot used in surgery\n",
+            "original-output": "The first robot used in surgery was the PUMA 560, used in 1985 for a neurosurgical biopsy.",
+            "claims": [
+                {
+                    "subclaim": "The first robot used in surgery was the PUMA 560.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The PUMA 560 was used in 1985.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The PUMA 560 was used for a neurosurgical biopsy.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who are the actors in fast and furious\n",
+            "original-output": "1. Vin Diesel as Dominic Toretto\n2. Paul Walker as Brian O'Conner\n3. Michelle Rodriguez as Letty Ortiz\n4. Jordana Brewster as Mia Toretto\n5. Tyrese Gibson as Roman Pearce\n6. Ludacris as Tej Parker\n7. Dwayne Johnson as Luke Hobbs\n8. Jason Statham as Deckard Shaw\n9. Sung Kang as Han Lue\n10. Gal Gadot as Gisele Yashar\n11. Elsa Pataky as Elena Neves\n12. Nathalie Emmanuel as Ramsey\n13. John Cena as Jakob Toretto\n14. Charlize Theron as Cipher\n15. Lucas Black as Sean Boswell\n16. Bow Wow as Twinkie (Fast and Furious: Tokyo Drift)\n17. Eva Mendes as Monica Fuentes (2 Fast 2 Furious and Fast Five)\n18. Kurt Russell as Mr. Nobody\n19. Helen Mirren as Magdalene Shaw\n20. Scott Eastwood as Little Nobody (The Fate of the Furious and F9) \n\nPlease note that this list includes main characters from the entire Fast & Furious franchise, not just the first movie.",
+            "claims": [
+                {
+                    "subclaim": "Vin Diesel plays the character Dominic Toretto.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Paul Walker plays the character Brian O'Conner.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Michelle Rodriguez plays the character Letty Ortiz.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jordana Brewster plays the character Mia Toretto.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tyrese Gibson plays the character Roman Pearce.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Ludacris plays the character Tej Parker.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dwayne Johnson plays the character Luke Hobbs.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jason Statham plays the character Deckard Shaw.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Sung Kang plays the character Han Lue.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gal Gadot plays the character Gisele Yashar.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Elsa Pataky plays the character Elena Neves.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Nathalie Emmanuel plays the character Ramsey.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "John Cena plays the character Jakob Toretto.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlize Theron plays the character Cipher.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lucas Black plays the character Sean Boswell.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bow Wow plays the character Twinkie in Fast and Furious: Tokyo Drift.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Eva Mendes plays the character Monica Fuentes in 2 Fast 2 Furious and Fast Five.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kurt Russell plays the character Mr. Nobody.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Helen Mirren plays the character Magdalene Shaw.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Scott Eastwood plays the character Little Nobody in The Fate of the Furious and F9.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The list includes main characters from the entire Fast & Furious franchise, not just the first movie.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "when does tom paris become a lieutenant again\n",
+            "original-output": "Tom Paris is reinstated as a lieutenant in the Star Trek: Voyager episode \"Unimatrix Zero\" which is the first episode of the seventh season.",
+            "claims": [
+                {
+                    "subclaim": "Tom Paris is a character in Star Trek: Voyager.",
+                    "gpt-score": "1",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tom Paris is reinstated as a lieutenant in a Star Trek: Voyager episode.",
+                    "gpt-score": "0.8",
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The episode in which Tom Paris is reinstated as a lieutenant is called 'Unimatrix Zero'.",
+                    "gpt-score": "0.8",
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'Unimatrix Zero' is the first episode of the seventh season of Star Trek: Voyager.",
+                    "gpt-score": "0.8",
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who sang the song i'm a nut\n",
+            "original-output": "Leroy Pullins sang the song \"I'm a Nut\".",
+            "claims": [
+                {
+                    "subclaim": "Leroy Pullins is a singer.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Leroy Pullins sang the song 'I'm a Nut'.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who sings the song i don't care i love it\n",
+            "original-output": "The song \"I Love It\" is sung by Icona Pop featuring Charli XCX.",
+            "claims": [
+                {
+                    "subclaim": "The song 'I Love It' exists.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Icona Pop is a singer or group of singers.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charli XCX is a singer or artist.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I Love It' is sung by Icona Pop.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I Love It' features Charli XCX.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "what does the key to the city entitle you to\n",
+            "original-output": "Receiving the key to the city is largely a symbolic gesture these days. It is often given by a city to esteemed visitors, residents, or others the city wishes to honor. It does not typically grant any legal rights, privileges or powers. In the past, it symbolized the freedom of the recipient to enter and leave the city at will, as a trusted friend of city residents.",
+            "claims": [
+                {
+                    "subclaim": "Receiving the key to the city is largely a symbolic gesture these days.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The key to the city is often given by a city to esteemed visitors, residents, or others the city wishes to honor.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Receiving the key to the city does not typically grant any legal rights, privileges or powers.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the past, receiving the key to the city symbolized the freedom of the recipient to enter and leave the city at will.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The key to the city was a symbol of trust between the recipient and city residents.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "when did fast and furious 5 come out\n",
+            "original-output": "Fast and Furious 5, also known as Fast Five, was released in the United States on April 29, 2011.",
+            "claims": [
+                {
+                    "subclaim": "Fast and Furious 5 is also known as Fast Five.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Fast and Furious 5 was released in the United States.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The release date of Fast and Furious 5 in the United States was April 29, 2011.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who are uncle owen and aunt beru related to\n",
+            "original-output": "Uncle Owen and Aunt Beru are related to Luke Skywalker. They are his uncle and aunt, who raised him on the planet Tatooine in the Star Wars series. Uncle Owen is also the stepbrother of Anakin Skywalker, who later becomes Darth Vader.",
+            "claims": [
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru are related to Luke Skywalker.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru are Luke Skywalker's uncle and aunt.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Uncle Owen and Aunt Beru raised Luke Skywalker.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luke Skywalker was raised on the planet Tatooine.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen, Aunt Beru, and Luke Skywalker are characters in the Star Wars series.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Uncle Owen is the stepbrother of Anakin Skywalker.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Anakin Skywalker later becomes Darth Vader in the Star Wars series.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "when the clear air act was revised in 1990 it gave states\n",
+            "original-output": "more responsibility and authority to enforce air pollution controls. The amendments required states to develop state implementation plans (SIPs) that detailed how they would control air pollution in accordance with the standards set by the Environmental Protection Agency (EPA). The act also introduced new programs to control acid rain, toxic air pollution, and ozone depletion.",
+            "claims": [
+                {
+                    "subclaim": "More responsibility and authority to enforce air pollution controls was given.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The amendments required states to develop state implementation plans (SIPs).",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "State implementation plans (SIPs) detailed how states would control air pollution.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The standards for controlling air pollution were set by the Environmental Protection Agency (EPA).",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The act introduced new programs to control acid rain.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The act introduced new programs to control toxic air pollution.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The act introduced new programs to control ozone depletion.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "what is sauce for the goose is sauce for the gander examples\n",
+            "original-output": "1. If a husband is allowed to spend his free time with his friends, then the wife should also be allowed to spend her free time with her friends. What's sauce for the goose is sauce for the gander.\n\n2. If a company allows its employees to work from home on Fridays, it should also allow its managers to do the same. What's sauce for the goose is sauce for the gander.\n\n3. If a teacher allows one student to retake a test, then all students should be given the same opportunity. What's sauce for the goose is sauce for the gander.\n\n4. If a parent allows one child to stay up late on weekends, then the other children should also be allowed to do so. What's sauce for the goose is sauce for the gander.\n\n5. If a government provides financial aid to one sector of the economy, it should also be prepared to provide similar aid to other sectors. What's sauce for the goose is sauce for the gander. \n\n6. If a company allows its senior employees to take a sabbatical, it should also allow its junior employees to do the same. What's sauce for the goose is sauce for the gander.\n\n7. If a country allows its citizens to travel freely to other countries, it should also allow citizens of other countries to travel freely to it. What's sauce for the goose is sauce for the gander. \n\n8. If a boss is allowed to take a long lunch break, then the employees should be allowed to do the same. What's sauce for the goose is sauce for the gander. \n\n9. If a school allows its students to use calculators during math exams, it should also allow its teachers to use calculators when grading. What's sauce for the goose is sauce for the gander.\n\n10. If a company allows its employees to use company cars for personal use, it should also allow its managers to do the same. What's sauce for the goose is sauce for the gander.",
+            "claims": [
+                {
+                    "subclaim": "A husband is allowed to spend his free time with his friends.",
+                    "gpt-score": 0.5,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The wife should also be allowed to spend her free time with her friends.",
+                    "gpt-score": 0.5,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A company allows its employees to work from home on Fridays.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The company should also allow its managers to work from home on Fridays.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A teacher allows one student to retake a test.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "All students should be given the same opportunity to retake a test.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A parent allows one child to stay up late on weekends.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The other children should also be allowed to stay up late on weekends.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A government provides financial aid to one sector of the economy.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The government should be prepared to provide similar aid to other sectors.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A company allows its senior employees to take a sabbatical.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The company should also allow its junior employees to take a sabbatical.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A country allows its citizens to travel freely to other countries.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The country should also allow citizens of other countries to travel freely to it.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A boss is allowed to take a long lunch break.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The employees should be allowed to take a long lunch break.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A school allows its students to use calculators during math exams.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The school should also allow its teachers to use calculators when grading.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A company allows its employees to use company cars for personal use.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The company should also allow its managers to use company cars for personal use.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where is zimbabwe located in the world map\n",
+            "original-output": "Zimbabwe is located in the southern part of the African continent. It is bordered by South Africa to the south, Botswana to the west and southwest, Zambia to the northwest, and Mozambique to the east and northeast.",
+            "claims": [
+                {
+                    "subclaim": "Zimbabwe is located in the southern part of the African continent.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by South Africa to the south.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Botswana to the west and southwest.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Zambia to the northwest.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zimbabwe is bordered by Mozambique to the east and northeast.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "100 acres is equal to how many hectares\n",
+            "original-output": "40.4686 hectares",
+            "claims": [
+                {
+                    "subclaim": "The given measurement is 40.4686 hectares.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who has won a calendar grand slam in tennis\n",
+            "original-output": "1. Don Budge (1938)\n2. Maureen Connolly (1953)\n3. Rod Laver (1962 and 1969)\n4. Margaret Court (1970)\n5. Steffi Graf (1988)",
+            "claims": [
+                {
+                    "subclaim": "Don Budge was notable in 1938.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maureen Connolly was notable in 1953.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rod Laver was notable in 1962 and 1969.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Margaret Court was notable in 1970.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Steffi Graf was notable in 1988.",
+                    "gpt-score": 0.6,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where was donovan mitchell picked in the draft\n",
+            "original-output": "Donovan Mitchell was picked 13th overall in the 2017 NBA Draft.",
+            "claims": [
+                {
+                    "subclaim": "Donovan Mitchell is a person.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donovan Mitchell was picked in the 2017 NBA Draft.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donovan Mitchell was picked 13th overall.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "list of food and beverage companies in the philippines\n",
+            "original-output": "1. San Miguel Corporation\n2. Jollibee Foods Corporation\n3. Universal Robina Corporation\n4. Del Monte Philippines, Inc.\n5. Monde Nissin Corporation\n6. Century Pacific Food, Inc.\n7. Dole Philippines, Inc.\n8. Nestle Philippines, Inc.\n9. Coca-Cola Beverages Philippines, Inc.\n10. Pepsi-Cola Products Philippines, Inc.\n11. RFM Corporation\n12. Alaska Milk Corporation\n13. Bounty Agro Ventures, Inc.\n14. The Purefoods-Hormel Company, Inc.\n15. Zest-O Corporation\n16. Gardenia Bakeries Philippines, Inc.\n17. NutriAsia, Inc.\n18. Asia Brewery, Inc.\n19. Ginebra San Miguel, Inc.\n20. Emperador Distillers, Inc.\n21. Tanduay Distillers, Inc.\n22. Leslie Corporation\n23. Liwayway Marketing Corporation\n24. Goldilocks Bakeshop, Inc.\n25. Max's Group, Inc.",
+            "claims": [
+                {
+                    "subclaim": "San Miguel Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jollibee Foods Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Universal Robina Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Del Monte Philippines, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Monde Nissin Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Century Pacific Food, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dole Philippines, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Nestle Philippines, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Coca-Cola Beverages Philippines, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Pepsi-Cola Products Philippines, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "RFM Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Alaska Milk Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bounty Agro Ventures, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Purefoods-Hormel Company, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Zest-O Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Gardenia Bakeries Philippines, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "NutriAsia, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Asia Brewery, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Ginebra San Miguel, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emperador Distillers, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Tanduay Distillers, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Leslie Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Liwayway Marketing Corporation exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Goldilocks Bakeshop, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Max's Group, Inc. exists.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where does british airways fly to in south america\n",
+            "original-output": "British Airways flies to several destinations in South America. As of my knowledge up to date, these include:\n\n1. Buenos Aires, Argentina\n2. Rio de Janeiro, Brazil\n3. Sao Paulo, Brazil\n4. Santiago, Chile\n5. Lima, Peru\n\nPlease note that routes may vary and it's always best to check the most current flight information directly from the British Airways website or contact their customer service.",
+            "claims": [
+                {
+                    "subclaim": "British Airways flies to several destinations in South America.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Buenos Aires, Argentina.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Rio de Janeiro, Brazil.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Sao Paulo, Brazil.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Santiago, Chile.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "British Airways flies to Lima, Peru.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Flight routes of British Airways may vary.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "It's recommended to check the most current flight information directly from the British Airways website.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "It's recommended to contact British Airways customer service for the most current flight information.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "what is the enthalpy of formation of cao(s)\n",
+            "original-output": "The standard enthalpy of formation of CaO(s) is -635.1 kJ/mol.",
+            "claims": [
+                {
+                    "subclaim": "The standard enthalpy of formation is a measure used in thermochemistry.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "CaO(s) refers to solid Calcium Oxide.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The standard enthalpy of formation of CaO(s) is -635.1 kJ/mol.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where did the beatles final live performance take place\n",
+            "original-output": "The Beatles' final live performance took place on the rooftop of the Apple Corps building in London, England on January 30, 1969.",
+            "claims": [
+                {
+                    "subclaim": "The Beatles' final live performance took place on a rooftop.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The rooftop was of the Apple Corps building.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Apple Corps building is located in London, England.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The performance took place on January 30, 1969.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who is the president of costa rica 2017\n",
+            "original-output": "The President of Costa Rica in 2017 was Luis Guillermo Sol\u00eds.",
+            "claims": [
+                {
+                    "subclaim": "The President of Costa Rica existed in 2017.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Sol\u00eds was a person.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Luis Guillermo Sol\u00eds was the President of Costa Rica in 2017.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "describe charlemagne in the epic the song of roland\n",
+            "original-output": "In the epic \"The Song of Roland,\" Charlemagne is depicted as a wise, powerful, and revered king. He is the Emperor of the Franks and the nephew of Roland, the story's hero. Charlemagne is portrayed as a devout Christian who is guided by his faith in his decisions and actions. He is also depicted as a strong and brave warrior, leading his men into battle against the Saracens.\n\nCharlemagne is shown to be a fair and just ruler, who values loyalty and bravery. He is deeply affected by the death of Roland and seeks revenge against the traitor Ganelon and the Saracens who killed his nephew. Despite his grief, he remains a strong leader, rallying his troops and leading them to victory.\n\nCharlemagne is also depicted as having a supernatural connection. He receives divine guidance and intervention from God and the Archangel Gabriel, who provide him with advice and support. This divine connection underscores Charlemagne's role as a holy warrior and a chosen leader.\n\nOverall, Charlemagne in \"The Song of Roland\" is a complex character who embodies the ideal medieval king: he is wise, brave, just, and devout, with a strong sense of duty and honor.",
+            "claims": [
+                {
+                    "subclaim": "In the epic 'The Song of Roland,' Charlemagne is depicted as a wise, powerful, and revered king.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is the Emperor of the Franks in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is the nephew of Roland, the story's hero, in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "Charlemagne is portrayed as a devout Christian who is guided by his faith in his decisions and actions in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is depicted as a strong and brave warrior, leading his men into battle against the Saracens in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is shown to be a fair and just ruler, who values loyalty and bravery in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is deeply affected by the death of Roland and seeks revenge against the traitor Ganelon and the Saracens who killed his nephew in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite his grief, Charlemagne remains a strong leader, rallying his troops and leading them to victory in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Charlemagne is depicted as having a supernatural connection in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "He receives divine guidance and intervention from God and the Archangel Gabriel, who provide him with advice and support in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "This divine connection underscores Charlemagne's role as a holy warrior and a chosen leader in 'The Song of Roland.'",
+                    "gpt-score": 0.9,
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Charlemagne in 'The Song of Roland' is a complex character who embodies the ideal medieval king: he is wise, brave, just, and devout, with a strong sense of duty and honor.",
+                    "gpt-score": 0.9,
+                    "annotation": "S"
+                }
+            ]
+        },
+        {
+            "prompt": "when did power rangers tv show come out\n",
+            "original-output": "The Power Rangers TV show first came out on August 28, 1993.",
+            "claims": [
+                {
+                    "subclaim": "The Power Rangers is a TV show.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Power Rangers TV show first aired on August 28, 1993.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "inheritance of the a b o blood groups is an example of\n",
+            "original-output": "Multiple Allele Inheritance",
+            "claims": [
+                {
+                    "subclaim": "Multiple Allele Inheritance refers to a type of genetic inheritance",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Multiple Allele Inheritance involves more than two alleles for a particular trait",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Multiple Allele Inheritance can result in a variety of physical characteristics",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "how many beverly hills cops movies are there\n",
+            "original-output": "There are three Beverly Hills Cop movies.",
+            "claims": [
+                {
+                    "subclaim": "There is a movie called Beverly Hills Cop.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "There is a sequel to Beverly Hills Cop, known as Beverly Hills Cop II.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "There is a third movie in the Beverly Hills Cop series, known as Beverly Hills Cop III.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who holds the most women's wimbledon titles\n",
+            "original-output": "Martina Navratilova holds the most Women's Wimbledon titles. She won 9 times between 1978 and 1990.",
+            "claims": [
+                {
+                    "subclaim": "Martina Navratilova holds the most Women's Wimbledon titles.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Martina Navratilova won 9 times at Wimbledon.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Martina Navratilova's Wimbledon wins occurred between 1978 and 1990.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "what does a dualist way of thinking mean\n",
+            "original-output": "Dualist way of thinking refers to the belief that there are two fundamental, opposing, and irreducible principles, elements, or substances that make up the universe. This could be mind and body, good and evil, physical and spiritual, etc. It's a philosophical concept that suggests these dualities coexist and are equally important in understanding the nature of existence.",
+            "claims": [
+                {
+                    "subclaim": "Dualist way of thinking refers to the belief that there are two fundamental, opposing, and irreducible principles, elements, or substances that make up the universe.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "These two principles, elements, or substances could be mind and body, good and evil, physical and spiritual, etc.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dualism is a philosophical concept.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "This concept suggests that these dualities coexist.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Dualism suggests that these dualities are equally important in understanding the nature of existence.",
+                    "gpt-score": 0.9,
+                    "annotation": "U"
+                }
+            ]
+        },
+        {
+            "prompt": "where does jinx you owe me a coke come from\n",
+            "original-output": "The phrase \"jinx you owe me a coke\" comes from a game of jinx that children often play. When two people say the same thing at the same time, the first one to say \"jinx\" starts the game. The rules of the game vary, but the common version is that the person who was jinxed cannot speak until someone says their name or if the person who did the jinxing says \"jinx you owe me a coke\". The phrase is mostly used in North America and has been popularized through various TV shows and movies. The origin of the game itself is unclear, but it's believed to have been around since the early 20th century.",
+            "claims": [
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' comes from a game of jinx that children often play.",
+                    "gpt-score": 0.7,
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "When two people say the same thing at the same time, the first one to say 'jinx' starts the game.",
+                    "gpt-score": 0.8,
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The rules of the game vary.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The common version of the game is that the person who was jinxed cannot speak until someone says their name or if the person who did the jinxing says 'jinx you owe me a coke'.",
+                    "gpt-score": 0.7,
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' is mostly used in North America.",
+                    "gpt-score": 0.6,
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "The phrase 'jinx you owe me a coke' has been popularized through various TV shows and movies.",
+                    "gpt-score": 0.6,
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "The origin of the game of jinx is unclear.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The game of jinx is believed to have been around since the early 20th century.",
+                    "gpt-score": 0.6,
+                    "annotation": "S"
+                }
+            ]
+        },
+        {
+            "prompt": "do yahoo email addresses end in com or net\n",
+            "original-output": "Yahoo email addresses typically end in .com.",
+            "claims": [
+                {
+                    "subclaim": "Yahoo email addresses typically end",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Yahoo email addresses typically end in .com",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who's making love to your old lady\n",
+            "original-output": "\"Who's Making Love\" is a song by American R&B singer Johnnie Taylor. The phrase \"Who's making love to your old lady\" is a line from the song, which was released in 1968. The song is about infidelity.",
+            "claims": [
+                {
+                    "subclaim": "\"Who's Making Love\" is a song.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song is by American R&B singer Johnnie Taylor.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The phrase \"Who's making love to your old lady\" is a line from the song.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song was released in 1968.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song is about infidelity.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "athletes who have won dancing with the stars\n",
+            "original-output": "1. Emmitt Smith (Season 3) - Former NFL player\n2. Apolo Anton Ohno (Season 4) - Olympic speed skater\n3. H\u00e9lio Castroneves (Season 5) - Race car driver\n4. Kristi Yamaguchi (Season 6) - Olympic figure skater\n5. Shawn Johnson (Season 8) - Olympic gymnast\n6. Hines Ward (Season 12) - Former NFL player\n7. Donald Driver (Season 14) - Former NFL player\n8. Meryl Davis (Season 18) - Olympic ice dancer\n9. Rashad Jennings (Season 24) - Former NFL player\n10. Adam Rippon (Season 26) - Olympic figure skater\n11. Hannah Brown (Season 28) - Former college athlete and The Bachelorette star.",
+            "claims": [
+                {
+                    "subclaim": "Emmitt Smith is a former NFL player.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Emmitt Smith was in Season 3.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apolo Anton Ohno is an Olympic speed skater.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Apolo Anton Ohno was in Season 4.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "H\u00e9lio Castroneves is a race car driver.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "H\u00e9lio Castroneves was in Season 5.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kristi Yamaguchi is an Olympic figure skater.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Kristi Yamaguchi was in Season 6.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shawn Johnson is an Olympic gymnast.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shawn Johnson was in Season 8.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hines Ward is a former NFL player.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hines Ward was in Season 12.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donald Driver is a former NFL player.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Donald Driver was in Season 14.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Meryl Davis is an Olympic ice dancer.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Meryl Davis was in Season 18.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rashad Jennings is a former NFL player.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rashad Jennings was in Season 24.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adam Rippon is an Olympic figure skater.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Adam Rippon was in Season 26.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hannah Brown is a former college athlete and The Bachelorette star.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hannah Brown was in Season 28.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "equation for the velocity of an object in motion at constant acceleration\n",
+            "original-output": "The equation for the velocity of an object in motion at constant acceleration is:\n\nv = u + at\n\nwhere:\nv = final velocity\nu = initial velocity\na = acceleration\nt = time",
+            "claims": [
+                {
+                    "subclaim": "The equation for the velocity of an object in motion at constant acceleration is v = u + at",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, v represents the final velocity",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, u represents the initial velocity",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, a represents the acceleration",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "In the equation, t represents the time",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where does the last name hickey come from\n",
+            "original-output": "The last name Hickey is of Irish origin, derived from the Gaelic name \"O hIceada,\" which means descendant of Iceadh. Iceadh is a personal name of uncertain origin. It was first found in County Clare, located on the west coast of Ireland in the province of Munster.",
+            "claims": [
+                {
+                    "subclaim": "The last name Hickey is of Irish origin.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hickey is derived from the Gaelic name 'O hIceada'.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "'O hIceada' means descendant of Iceadh.",
+                    "gpt-score": 0.8,
+                    "annotation": "U"
+                },
+                {
+                    "subclaim": "Iceadh is a personal name of uncertain origin.",
+                    "gpt-score": 1,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The name was first found in County Clare.",
+                    "gpt-score": 0.8,
+                    "annotation": "S"
+                },
+                {
+                    "subclaim": "County Clare is located on the west coast of Ireland.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "County Clare is in the province of Munster.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "when does maggie come on grey's anatomy\n",
+            "original-output": "Maggie Pierce, played by Kelly McCreary, first appears in Grey's Anatomy in the last episode of Season 10, which aired on May 15, 2014. However, her character is formally introduced in the first episode of Season 11, which aired on September 25, 2014.",
+            "claims": [
+                {
+                    "subclaim": "Maggie Pierce is a character in Grey's Anatomy.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce is played by Kelly McCreary.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce first appears in the last episode of Season 10 of Grey's Anatomy.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The last episode of Season 10 of Grey's Anatomy aired on May 15, 2014.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Maggie Pierce's character is formally introduced in the first episode of Season 11 of Grey's Anatomy.",
+                    "gpt-score": 0.9,
+                    "annotation": "N"
+                },
+                {
+                    "subclaim": "The first episode of Season 11 of Grey's Anatomy aired on September 25, 2014.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "the rembrandts i'll be there for you album\n",
+            "original-output": "The song \"I'll Be There for You\" by The Rembrandts is from the album \"LP\" which was released in 1995. However, the song is best known as the theme song to the television show \"Friends\", and it was also included in the soundtrack album \"Friends Original TV Soundtrack\" released in 1995.",
+            "claims": [
+                {
+                    "subclaim": "The song 'I'll Be There for You' is by The Rembrandts.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song 'I'll Be There for You' is from the album 'LP'.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The album 'LP' was released in 1995.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'I'll Be There for You' is best known as the theme song to the television show 'Friends'.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song 'I'll Be There for You' was included in the soundtrack album 'Friends Original TV Soundtrack'.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The soundtrack album 'Friends Original TV Soundtrack' was released in 1995.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where do lie bumps come from on your tongue\n",
+            "original-output": "Lie bumps, also known as transient lingual papillitis, can occur due to several reasons. These include stress, hormonal fluctuations, certain foods (like acidic or sugary foods), smoking, or minor injuries such as biting your tongue. However, the exact cause is not known. Despite the name, they have nothing to do with lying or telling falsehoods.",
+            "claims": [
+                {
+                    "subclaim": "Lie bumps are also known as transient lingual papillitis.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Lie bumps can occur due to several reasons.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Stress can cause lie bumps.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Hormonal fluctuations can cause lie bumps.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Certain foods, like acidic or sugary foods, can cause lie bumps.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Smoking can cause lie bumps.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Minor injuries such as biting your tongue can cause lie bumps.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The exact cause of lie bumps is not known.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Despite the name, lie bumps have nothing to do with lying or telling falsehoods.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "where is the greatest royal rumble taking place\n",
+            "original-output": "The Greatest Royal Rumble took place at the King Abdullah Sports City's King Abdullah International Stadium in Jeddah, Saudi Arabia on April 27, 2018.",
+            "claims": [
+                {
+                    "subclaim": "The Greatest Royal Rumble took place at the King Abdullah Sports City's King Abdullah International Stadium.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The location of the event was in Jeddah, Saudi Arabia.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The event occurred on April 27, 2018.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who sang my name is tallulah in bugsy malone\n",
+            "original-output": "Jodie Foster sang \"My Name is Tallulah\" in Bugsy Malone.",
+            "claims": [
+                {
+                    "subclaim": "Jodie Foster is a person.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Jodie Foster sang a song.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The song Jodie Foster sang is 'My Name is Tallulah'.",
+                    "gpt-score": 0.7,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'My Name is Tallulah' is a song in Bugsy Malone.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Bugsy Malone is a production that includes music.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "a property tax bill is an example of\n",
+            "original-output": "a direct tax",
+            "claims": [
+                {
+                    "subclaim": "A direct tax is a type of tax",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "A direct tax is paid directly by an individual or organization to an imposing entity",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "when did the volcano erupt in indonesia 2018\n",
+            "original-output": "The Anak Krakatau volcano in Indonesia erupted on December 22, 2018.",
+            "claims": [
+                {
+                    "subclaim": "The Anak Krakatau volcano is located in Indonesia.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The Anak Krakatau volcano erupted.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "The eruption occurred on December 22, 2018.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "income elasticity of demand for normal good is always\n",
+            "original-output": "positive",
+            "claims": [
+                {
+                    "subclaim": "The input is a single word: 'positive'",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "what is andy's sisters name in toy story\n",
+            "original-output": "Andy's sister's name in Toy Story is Molly.",
+            "claims": [
+                {
+                    "subclaim": "Andy is a character in Toy Story.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Andy has a sister in Toy Story.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Andy's sister's name in Toy Story is Molly.",
+                    "gpt-score": 1,
+                    "annotation": "Y"
+                }
+            ]
+        },
+        {
+            "prompt": "who sings with shaggy on it wasn me",
+            "original-output": "Rikrok sings with Shaggy on \"It Wasn't Me\".",
+            "claims": [
+                {
+                    "subclaim": "Rikrok is a singer.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Shaggy is a singer.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rikrok and Shaggy have performed together.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "'It Wasn't Me' is a song.",
+                    "gpt-score": 0.9,
+                    "annotation": "Y"
+                },
+                {
+                    "subclaim": "Rikrok and Shaggy sang 'It Wasn't Me' together.",
+                    "gpt-score": 0.8,
+                    "annotation": "Y"
+                }
+            ]
+        }
+    ]
+}
